@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.tareksaidee.android.brooklyncisc.CSMajor">
+
+    <LinearLayout
+        android:id="@+id/main_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/first_layout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/cisc1110_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="16dp"
+                android:onClick="goTo"
+                android:text="CISC 1110" />
+
+            <Button
+                android:id="@+id/cisc3110_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="16dp"
+                android:onClick="goTo"
+                android:text="CISC 3110" />
+
+            <Button
+                android:id="@+id/cisc3120_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="16dp"
+                android:onClick="goTo"
+                android:text="CISC 3120" />
+
+            <Button
+                android:id="@+id/cisc3130_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="16dp"
+                android:onClick="goTo"
+                android:text="CISC 3130" />
+
+            <Button
+                android:id="@+id/cisc3140_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="16dp"
+                android:onClick="goTo"
+                android:text="CISC 3140" />
+
+            <Button
+                android:id="@+id/cisc3150_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="16dp"
+                android:onClick="goTo"
+                android:text="CISC 3150" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/second_layout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/first_layout"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/cisc2210_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="16dp"
+                android:onClick="goTo"
+                android:text="CISC 2210" />
+
+            <Button
+                android:id="@+id/cisc2820w_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="16dp"
+                android:onClick="goTo"
+                android:text="CISC 2820W" />
+
+            <Button
+                android:id="@+id/cisc3310_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="16dp"
+                android:onClick="goTo"
+                android:text="CISC 3310" />
+
+            <Button
+                android:id="@+id/cisc3320_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="16dp"
+                android:onClick="goTo"
+                android:text="CISC 3320" />
+
+            <Button
+                android:id="@+id/cisc3220_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="16dp"
+                android:onClick="goTo"
+                android:text="CISC 3220" />
+
+            <Button
+                android:id="@+id/cisc4900_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="16dp"
+                android:onClick="goTo"
+                android:text="CISC 4900/4905" />
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

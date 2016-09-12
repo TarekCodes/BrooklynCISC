@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Brooklyn CISC</string>
+
+
+    <string name="cisc1110title">Introduction to Programming Using C++</string>
+    <string name="cisc1110">Algorithms, computers and programs. Writing, debugging, and testing programs. Loops and
+    conditional control structures. Functions and parameter passing. Arrays, strings and simple
+    classes. Sorting, searching and other basic algorithms. Input and output. Programming
+    applications selected from various disciplines. History and basic concepts of computer science.</string>
+    <string name="cisc1110texts">•Problem Solving With C++ (authors: J. Jones and K. Harrow)\n•Workbook for C++ (author: Langsam)</string>
+
+    <string name="cisc3110title">Advanced Programming Techniques</string>
+    <string name="cisc3110">A second course in programming. Advanced programming techniques emphasizing
+    reliability, maintainability, and reusability. Module design and multi-file programs.
+    Abstract data types. Objects, classes, and object-oriented design. Storage class and scope.
+    Addresses, pointers, and dynamic storage allocation. Test suites, test drivers, and testing
+    strategies; debugging, assertions, and an introduction to formal techniques. Recursion and
+    function parameters. (Not open to students who are enrolled in or have completed
+    CISC 3130.) </string>
+    <string name="cisc3110texts">•Gaddis, T., Walters, J. and Muganda, G. Starting Out with Gaddis: Early Objects, 6th
+    edition, Addison Wesley, 2007.\n•Peek, J, Todino-Gonquet, G. and Strang , J., Learning the Unix Operating System, 5th
+    edition, O.Reilly, 2001</string>
+
+    <string name="cisc3120title">Design and Implementation of Software Applications I</string>
+    <string name="cisc3120">Introduction to essential topics for modern software application development: Graphical User
+    Interface (GUI) programming and human-computer interaction; computer graphics; networks,
+    security, and client-server computing, including web applications. Code development by example, and modification of instructor-authored code using Java, emphasizing its graphics and
+    networking capabilities. Contemporary programming development environments and tools
+    including Application Programming Interfaces (APIs) and Integrated Development Environments
+    (IDEs). Students should be prepared to take CISC 3140 in the following semester.</string>
+    <string name="cisc3120texts">Up to instructor</string>
+
+    <string name="cisc3130title">Data Structures</string>
+    <string name="cisc3130">Stacks and their implementations. Prefix, postfix, and infix notation. Queues and linked
+    lists and their implementations. Binary and general trees and their implementations and
+    traversals. Sorting and searching techniques. Graph algorithms. </string>
+    <string name="cisc3130texts">•Data Structures Using C and C++ second edition, by: Langsam, Tenenbaum,
+    and Augenstein</string>
+
+    <string name="cisc3140title">Design and Implementation of Software Applications II</string>
+    <string name="cisc3140">Continuation of CISC 3120. Emphasis on building and testing a system designed and prototyped
+    in CISC 3120. Emphasis on software development, database systems, intelligent systems and
+    software engineering. This course should be taken the semester after CISC 3120</string>
+    <string name="cisc3140texts">Up to instructor</string>
+
+    <string name="cisc3150title">Object-Oriented Programming</string>
+    <string name="cisc3150">Principles and implementation issues in object-oriented programming languages, including:
+    memory and run-time models; encapsulation, inheritance and polymorphism; generics.
+    Collections and other frameworks and hierarchies. Effects of binding time considerations on
+    language design and implementation. Introduction to design patterns, such as adapter,
+    singleton, and model-view-controller. Formal design specifications such as UML. Case studies
+    chosen from multiple languages such as C++, Java and Smalltalk.</string>
+    <string name="cisc3150texts">Up to instructor</string>
+
+    <string name="cisc2210title">Introduction to Discrete Structures</string>
+    <string name="cisc2210">Elementary set theory, functions, relations, and Boolean algebra. Switching circuits, gating
+    networks. Definition and analysis of algorithms. Applications of graph theory to computer science.
+    Related algorithms. Introduction to combinatorial computing and counting arguments. Introduction
+    to error analysis. </string>
+    <string name="cisc2210texts">•Kenneth H. Rosen, Discrete Mathematics and its Applications, McGraw Hill, 5th Ed., ISBN 0-07-
+    289905\n•Students Solutions Guide, McGraw Hill, ISBN 0-07-2336102 </string>
+
+    <string name="cisc2820wtitle">Computers and Ethics</string>
+    <string name="cisc2820w">Analysis of ethical issues pertaining to computers and the workplace, anonymity and
+    privacy, copyright and patent law (as applied to software), computer crime, security,
+    unauthorized use, codes of conduct for computer professionals, access and availability of
+    computing technologies. Application of theoretical frameworks such as virtue ethics,
+    deontological theories and utilitarianism to the ethical problems encountered in
+    computing technologies. Writing intensive course. (This course is the same as Philosophy
+    3318)</string>
+    <string name="cisc2820wtexts">•Richard A. Spinello, Cyberethics: Morality and Law in Cyberspace, Jones and
+    Bartlett Publishers, Massachusetts, 2005. ISBN: 0-7637-0064-9\n
+    •Richard A. Spinello and Herman T. Tavani, Readings in Cyberethics (2nd ed.),
+    Jones and Bartlett Publishers, Massachusetts, 2005. ISBN: 0-7637-2410-6 </string>
+
+    <string name="cisc3310title">Principles of Computer Architecture</string>
+    <string name="cisc3310">Introduction to digital logic. Basic digital circuits. Boolean algebra and combinational logic, data
+    representation and transfer, digital arithmetic. Instruction sets. Introduction to assembly languages:
+    ALU and memory reference instructions, flow control, subroutine linkage, arrays and structures.
+    Memory. I/O systems. Performance. Relationship between software and architecture. (Not open to
+    students who are enrolled in or have completed Computer and Information Science 3305 [27] or
+    3315 [28].)</string>
+    <string name="cisc3310texts">Up to instructor</string>
+
+    <string name="cisc3320title"> Operating Systems </string>
+    <string name="cisc3320">Design and implementation of operating systems for large computers.
+    Multiprogramming, multiprocessing, time sharing. Resource allocation and scheduling.
+    Communications, conversational computing, computer networks. Memory protection,
+    interrupts, segmentation, paging, and virtual memories. </string>
+    <string name="cisc3320texts">•Operating System Concepts (6th or 7th edition), by: Silberschatz, Galvin and Gagne </string>
+
+    <string name="cisc3220title">Analysis of Algorithms</string>
+    <string name="cisc3220">Algorithms, data structures, and their analysis. Applications for and solution to recurrence problems.
+    Upper and lower bounds on complexities of various problems. Classification by design structures.
+    Sorting methods, graph and selection algorithms. Pattern matching. Efficient computation of
+    transitive closure and equivalences. NP-completeness. </string>
+    <string name="cisc3220texts">•Baase, Sara and Van Gelder. Computer Algorithms: Introduction to Design and Analysis, 3rd
+    ed., Addison-Wesley. </string>
+
+    <string name="cisc4900title">Independent and Group Projects I, II</string>
+    <string name="cisc4900">Planning and development of a real computer systems project supervised by a faculty member.
+    Achievement measured by demonstrable attainment of the project’s goals. CISC 4900 or CISC 5001 is required of all CIS majors. They both require department permission for
+    registration. Both require completion of a major computer science project (involving
+    approximately 15 hours/week of work), plus tutoring. Students may find their own project, within or
+    outside the school. Many students use projects at work for their project.  </string>
+    <string name="cisc4900texts">None</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_courses_info">CoursesInfo</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
