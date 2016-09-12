@@ -2,9 +2,10 @@ package com.tareksaidee.android.brooklyncisc;
 
 import android.content.Intent;
 import android.net.Uri;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import android.widget.Button;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -16,8 +17,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void goTo(View view){
+        Button sourceButton = (Button) view;
         Intent intent = new Intent(this, CSMajor.class);
-        startActivityForResult(intent, 0);
+        intent.putExtra("ButtonName",sourceButton.getId());
+        startActivityForResult(intent,0);
     }
 
     public void mapsGoTo(View view){
