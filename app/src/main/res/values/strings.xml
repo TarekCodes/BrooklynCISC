@@ -1,6 +1,41 @@
 <resources>
     <string name="app_name">Brooklyn CISC</string>
 
+    <string name="cisc1050title">Introduction to Computer Applications</string>
+    <string name="cisc1050">Introduction to the use of the computer in the home and office. Provides an overview of
+    microcomputer applications including a brief introduction to computer concepts, Microsoft
+    Windows, Microsoft Office, Microsoft Office Word, Microsoft Office Excel, Microsoft Office
+    Access, Microsoft Office PowerPoint, creating Web pages, and integration of the applications.
+        (Not open to students who are enrolled in or have completed Computer and Information Science 3800)</string>
+    <string name="cisc1050texts">•Microsoft Office 2003: Introductory Concepts and Techniques, Premium Edition
+    Shelly Cashman Vermaat (ISBN: 1-418-85931-1)</string>
+    
+    <string name="cisc2531title">Operations Management</string>
+    <string name="cisc2531">Study in managerial decision making to solve a wide range of operating management problems.
+    Topics covered include: planning, evaluation and control of operations; forecasting and inventory
+    management; scheduling; project design and management; resource allocation; queuing models;
+    quality of the work environment; and technological change. Design and implementation of
+    management strategy will be emphasized through computer simulation, problems, and cases. This
+    course is the same as BUSN 3430</string>
+    <string name="cisc2531texts">•Quantitative Analysis for Management /10e, by Render, Stair and Hanna. Pearson Prentice Hall
+    (with CD) ISBN 0-13-603625-8.</string>
+
+    <string name="cisc3800title">Advanced Personal Computer Techniques for Business
+    Applications </string>
+    <string name="cisc3800">In-depth analysis of software and hardware available for current business applications.
+    Advanced use of application packages. Critique and comparison of current application
+    software. Designing a proper interface. Examination of current trends toward office
+    automation. System design and analysis. </string>
+    <string name="cisc3800texts">•biweekly readings from PC magazine</string>
+
+    <string name="cisc3630title">Multimedia Computing</string>
+    <string name="cisc3630">Surveys the interrelationship of state-of-the-art communication, and computer technology. Hardware,
+    software and system design issues in the multimedia presentation of information. Multimedia
+    standards. Audio and video compression techniques. Hypermedia database systems. Programming and
+    the use of multimedia authoring systems. Survey of representative hypermedia applications.</string>
+    <string name="cisc3630texts">•Multimedia: Making it Work, 7th edition, Tay Vaughn, McGraw Hill, 2006\n
+    •Johnson, Steven M, Macromedia Director 8 Shockwave Studio (Complete), Course
+    Technology, 2001. </string>
 
     <string name="cisc1110title">Introduction to Programming Using C++</string>
     <string name="cisc1110">Algorithms, computers and programs. Writing, debugging, and testing programs. Loops and
@@ -109,3 +144,4 @@
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
 </resources>
+

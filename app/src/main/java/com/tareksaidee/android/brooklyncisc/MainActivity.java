@@ -18,8 +18,8 @@ public class MainActivity extends AppCompatActivity {
 
     public void goTo(View view){
         Button sourceButton = (Button) view;
-        Intent intent = new Intent(this, CSMajor.class);
-        intent.putExtra("ButtonName",sourceButton.getId());
+        Intent intent = new Intent(this, ciscRoutes.class);
+        intent.putExtra("buttonID",sourceButton.getId());
         startActivityForResult(intent,0);
     }
 

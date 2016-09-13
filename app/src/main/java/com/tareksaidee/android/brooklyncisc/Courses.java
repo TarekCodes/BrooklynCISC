@@ -19,6 +19,32 @@ public class Courses extends AppCompatActivity {
         TextView textbooks = (TextView) findViewById(R.id.cisc_textbooks);
         TextView credits = (TextView) findViewById(R.id.cisc_credits);
         switch (code) {
+            case "CISC 1050":
+                course.setText(R.string.cisc1050);
+                title.setText(R.string.cisc1050title);
+                textbooks.setText(R.string.cisc1050texts);
+                credits.setText("(3 Credits)");
+                break;
+            case "CISC 2531":
+                course.setText(R.string.cisc2531);
+                title.setText(R.string.cisc2531title);
+                textbooks.setText(R.string.cisc2531texts);
+                credits.setText("(3 Credits)");
+                break;
+            case "CISC 3800":
+                course.setText(R.string.cisc3800);
+                title.setText(R.string.cisc3800title);
+                textbooks.setText(R.string.cisc3800texts);
+                credits.setText("(3 Credits)");
+                break;
+
+            case "CISC 3630":
+                course.setText(R.string.cisc3630);
+                title.setText(R.string.cisc3630title);
+                textbooks.setText(R.string.cisc3630texts);
+                credits.setText("(3 Credits)");
+                break;
+
             case "CISC 1110":
                 course.setText(R.string.cisc1110);
                 title.setText(R.string.cisc1110title);
@@ -94,3 +120,10 @@ public class Courses extends AppCompatActivity {
         }
     }
 }
+
+
+
+
+//TODO change credits into a res
+//TODO sort the cases based on course number here and in res too
+//TODO add a prereq section

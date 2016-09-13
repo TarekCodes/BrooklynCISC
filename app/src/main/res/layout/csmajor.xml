@@ -6,13 +6,11 @@
     tools:context="com.tareksaidee.android.brooklyncisc.CSMajor">
 
     <LinearLayout
-        android:id="@+id/main_layout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
 
         <LinearLayout
-            android:id="@+id/first_layout"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -78,7 +76,6 @@
             android:id="@+id/second_layout"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_toRightOf="@id/first_layout"
             android:layout_weight="1"
             android:orientation="vertical">
 

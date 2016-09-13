@@ -18,6 +18,8 @@
             android:layout_gravity="center_horizontal"
             android:fontFamily="sans-serif-medium"
             android:paddingTop="16dp"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
             android:text="@string/cisc1110title"
             android:textColor="#F44336"
             android:textSize="20sp"
