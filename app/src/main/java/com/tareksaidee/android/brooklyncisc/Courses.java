@@ -127,3 +127,4 @@ public class Courses extends AppCompatActivity {
 //TODO change credits into a res
 //TODO sort the cases based on course number here and in res too
 //TODO add a prereq section
+//TODO rename methods like goTo etc
