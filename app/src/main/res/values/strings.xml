@@ -28,6 +28,49 @@
     automation. System design and analysis. </string>
     <string name="cisc3800texts">•biweekly readings from PC magazine</string>
 
+    <string name="cisc1150title">UNIX Shell Programming</string>
+    <string name="cisc1150">The shell programming language. Command structure and I/O redirection. Control structures,
+        metacharacters, process environment. Shell scripts, exception handling, numerical and string facilities,
+        recursion. Filter programs, the software tools approach, pipeline programming. Regular expression pattern
+        matching. Quoting. Subshells. Remote shell programs. Background processes, shell demons, process management.</string>
+    <string name="cisc1150texts">Up to instructor</string>
+
+    <string name="cisc3330title">Foundations of Parallel and Distributed Computing</string>
+    <string name="cisc3330">Survey of parallel and distributed hardware fundamentals, including SMP machines,
+    clusters, grids, and networks of workstations. Introduction to the design of parallel
+    algorithms and the analysis of their efficiency. Survey of software issues for parallel and
+    distributed computation including message passing and shared memory, processes and
+    threads, client/server and peer to peer, and issues of synchronization. Complexity
+    considerations and the limits of parallelism.</string>
+    <string name="cisc3330texts">Up to instructor</string>
+
+    <string name="cisc3350title">Workstation Programming</string>
+    <string name="cisc3350">Programming techniques for development of applications on networks of workstations.
+    Process environments, file system issues. Concurrent programming, interprocess
+    communication. Graphical user interfaces, event-driven programming. Distributed
+    programming; remote process creation, the client-server model, message passing.</string>
+    <string name="cisc3350texts">•Kay A. Robbins and Steven Robbins, Unix System Programming, 2nd edition, Prentice
+    Hall, 2003. (RR) </string>
+
+    <string name="cisc4331title">System and Network Administration</string>
+    <string name="cisc4331">Installation, configuration, and maintenance of an operating system.
+        Configuration of routers, networks, and sub-networks. Installation, configuration, and
+        maintenance of network utilities such as email, web server, and other services. Use of
+        network diagnostic tools. Identification and repair of network and configuration problems. </string>
+    <string name="cisc4331texts">Up to instructor</string>
+
+    <string name="cisc4335title">Parallel and Distributed Computing</string>
+    <string name="cisc4335">Development of parallel and distributed applications. Examples taken from scientific
+    programming, artificial intelligence, operations research, and management science.
+    Symmetric models and asymmetric models. Client-server. Threaded programming. Data
+    parallelism versus algorithmic parallelism. Issues of resource utilization, program
+    decomposition, performance, probability, debugging. Use of formal methods, faulttolerance,
+    security and other distributed systems issues.</string>
+    <string name="cisc4335texts">•Introduction to CUDA Programming, Volume I, CUDA Technical Training,Nvidia
+    Corp., 2008\n
+    •Parallel Processing with CUDA, Tom R. Halfhill, Microprocessor Report, January 28,
+    2008. </string>
+
     <string name="cisc1600title">Introduction to Multimedia Computing</string>
     <string name="cisc1600">Introduction to multimedia topics, including: web design, game design, animation, data
     visualization, simulation and robotics. Introduction to multimedia hardware and software, including

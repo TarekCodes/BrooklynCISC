@@ -31,6 +31,8 @@ public class ciscRoutes extends AppCompatActivity {
                 return R.layout.mmcmajor;
             case R.id.minor_mmc:
                 return R.layout.mmcminor;
+            case R.id.minor_pdc:
+                return R.layout.pdcminor;
             default:
                 return R.layout.csmajor;
         }
