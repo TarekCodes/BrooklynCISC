@@ -56,7 +56,7 @@
                     android:text="Information Systems" />
 
                 <Button
-                    android:id="@+id/major_mc"
+                    android:id="@+id/major_mmc"
                     android:layout_width="match_parent"
                     android:layout_height="70dp"
                     android:onClick="goTo"
@@ -123,7 +123,7 @@
                     android:text="Computer Science" />
 
                 <Button
-                    android:id="@+id/minor_mc"
+                    android:id="@+id/minor_mmc"
                     android:layout_width="match_parent"
                     android:onClick="goTo"
                     android:layout_height="70dp"

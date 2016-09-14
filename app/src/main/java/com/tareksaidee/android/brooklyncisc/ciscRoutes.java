@@ -27,8 +27,10 @@ public class ciscRoutes extends AppCompatActivity {
         switch (buttonID) {
             case R.id.minor_cs:
                 return R.layout.csminor;
-            case R.id.major_mc:
-                return R.layout.mcmajor;
+            case R.id.major_mmc:
+                return R.layout.mmcmajor;
+            case R.id.minor_mmc:
+                return R.layout.mmcminor;
             default:
                 return R.layout.csmajor;
         }
