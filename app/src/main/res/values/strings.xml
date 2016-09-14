@@ -28,6 +28,46 @@
     automation. System design and analysis. </string>
     <string name="cisc3800texts">•biweekly readings from PC magazine</string>
 
+    <string name="cisc1600title">Introduction to Multimedia Computing</string>
+    <string name="cisc1600">Introduction to multimedia topics, including: web design, game design, animation, data
+    visualization, simulation and robotics. Introduction to multimedia hardware and software, including
+    game boxes. Human interface design and input using multimedia devices. Graphical and other forms
+    of output to multimedia devices. Emphasis on design and creation of web pages with HTML and
+    cascading style sheets; interactive, graphical web-based programs; simple computer games, movies
+    and narratives. Computer-based sound editing. Introduction to agent-based programming for
+    simulations and robotics. Uses of multimedia in industry. Hands-on exercises.</string>
+    <string name="cisc1600texts">Up to instructor</string>
+
+    <string name="cisc3650title">Human-Computer Interaction</string>
+    <string name="cisc3650">Overview of computer-human interfaces with an emphasis on innovative approaches.
+    Principles of computer-human interaction. Ubiquitous computing and tangible interfaces.
+    Interfaces employing speech recognition and computer vision. Sensor technologies.
+    Computer supported cooperative work. Virtual and augmented realities. </string>
+    <string name="cisc3650texts">Up to instructor</string>
+    
+    <string name="cisc3660title">Game Programming</string>
+    <string name="cisc3660">Game programming techniques. 2D and 3D games. Data representations of virtual elements.
+    Visualizing the 3D game environment. Controlling motion and behaviors. Interaction control.
+    Game architectures, including multi-player games and message passing. Managing complexity.
+    Teamwork to create a 3D game using a 3D multi-player game engine. Interaction with game
+    development professionals regarding state-of-the-art hardware and software technology for game
+    creation and adaptation. </string>
+    <string name="cisc3660texts">•A. Watt and F. Policarpo, 3D Games: Volume I: Real-Time Rendering and Software
+    Technology, Addison Wesley, 2000. </string>
+    
+    <string name="cisc3665title">Game Design</string>
+    <string name="cisc3665">Introduction to designing the intelligence behind computer games. Fundamentals
+        of designing, programming and troubleshooting game behavior. Documenting and critiquing design.
+        Multi-week small-group projects in game design. </string>
+    <string name="cisc3665texts">Up to instructor</string>
+
+    <string name="cisc3620title">Computer Graphics</string>
+    <string name="cisc3620">Fundamentals of computer graphics programming. Graphics hardware and software standards. 2D
+    geometric primitives and raster images. 3D object representations. Data structures, algorithms, and the
+    graphics pipeline. Graphical user interfaces. Underlying concepts in computer graphics systems,
+    including games, animation, modeling, rendering, and paint systems.</string>
+    <string name="cisc3620texts">•Angel, Interactive Computer Graphics: A Top-Down Approach Using OpenGL,5/E, AddisonWesley.</string>
+
     <string name="cisc3630title">Multimedia Computing</string>
     <string name="cisc3630">Surveys the interrelationship of state-of-the-art communication, and computer technology. Hardware,
     software and system design issues in the multimedia presentation of information. Multimedia
@@ -59,7 +99,8 @@
     <string name="cisc3120title">Design and Implementation of Software Applications I</string>
     <string name="cisc3120">Introduction to essential topics for modern software application development: Graphical User
     Interface (GUI) programming and human-computer interaction; computer graphics; networks,
-    security, and client-server computing, including web applications. Code development by example, and modification of instructor-authored code using Java, emphasizing its graphics and
+    security, and client-server computing, including web applications. Code development by example,
+        and modification of instructor-authored code using Java, emphasizing its graphics and
     networking capabilities. Contemporary programming development environments and tools
     including Application Programming Interfaces (APIs) and Integrated Development Environments
     (IDEs). Students should be prepared to take CISC 3140 in the following semester.</string>

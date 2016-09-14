@@ -45,6 +45,41 @@ public class Courses extends AppCompatActivity {
                 credits.setText("(3 Credits)");
                 break;
 
+            case "CISC 3620":
+                course.setText(R.string.cisc3620);
+                title.setText(R.string.cisc3620title);
+                textbooks.setText(R.string.cisc3620texts);
+                credits.setText("(3 Credits)");
+                break;
+
+            case "CISC 3650":
+                course.setText(R.string.cisc3650);
+                title.setText(R.string.cisc3650title);
+                textbooks.setText(R.string.cisc3650texts);
+                credits.setText("(3 Credits)");
+                break;
+
+            case "CISC 3660":
+                course.setText(R.string.cisc3660);
+                title.setText(R.string.cisc3660title);
+                textbooks.setText(R.string.cisc3660texts);
+                credits.setText("(3 Credits)");
+                break;
+
+            case "CISC 3665":
+                course.setText(R.string.cisc3665);
+                title.setText(R.string.cisc3665title);
+                textbooks.setText(R.string.cisc3665texts);
+                credits.setText("(3 Credits)");
+                break;
+
+            case "CISC 1600":
+                course.setText(R.string.cisc1600);
+                title.setText(R.string.cisc1600title);
+                textbooks.setText(R.string.cisc1600texts);
+                credits.setText("(3 Credits)");
+                break;
+
             case "CISC 1110":
                 course.setText(R.string.cisc1110);
                 title.setText(R.string.cisc1110title);
@@ -128,3 +163,9 @@ public class Courses extends AppCompatActivity {
 //TODO sort the cases based on course number here and in res too
 //TODO add a prereq section
 //TODO rename methods like goTo etc
+//TODO split course' info into different res files
+//TODO combine all courses into one class with appropriate functions for ease of use
+//TODO keep adding more majors/minors/classes
+//TODO figure something out for electives and math classes etc.
+//TODO cisc 4900 is different from cisc 4905
+//TODO textsbooks are subject to change
