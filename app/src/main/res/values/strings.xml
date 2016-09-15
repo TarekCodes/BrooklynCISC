@@ -9,6 +9,7 @@
         (Not open to students who are enrolled in or have completed Computer and Information Science 3800)</string>
     <string name="cisc1050texts">•Microsoft Office 2003: Introductory Concepts and Techniques, Premium Edition
     Shelly Cashman Vermaat (ISBN: 1-418-85931-1)</string>
+    <string name="cisc1050credits">3 Credits</string>
     
     <string name="cisc2531title">Operations Management</string>
     <string name="cisc2531">Study in managerial decision making to solve a wide range of operating management problems.
@@ -19,6 +20,7 @@
     course is the same as BUSN 3430</string>
     <string name="cisc2531texts">•Quantitative Analysis for Management /10e, by Render, Stair and Hanna. Pearson Prentice Hall
     (with CD) ISBN 0-13-603625-8.</string>
+    <string name="cisc2531credits">3 Credits</string>
 
     <string name="cisc3800title">Advanced Personal Computer Techniques for Business
     Applications </string>
@@ -27,6 +29,7 @@
     software. Designing a proper interface. Examination of current trends toward office
     automation. System design and analysis. </string>
     <string name="cisc3800texts">•biweekly readings from PC magazine</string>
+    <string name="cisc3800credits">3 Credits</string>
 
     <string name="cisc1150title">UNIX Shell Programming</string>
     <string name="cisc1150">The shell programming language. Command structure and I/O redirection. Control structures,
@@ -34,6 +37,7 @@
         recursion. Filter programs, the software tools approach, pipeline programming. Regular expression pattern
         matching. Quoting. Subshells. Remote shell programs. Background processes, shell demons, process management.</string>
     <string name="cisc1150texts">Up to instructor</string>
+    <string name="cisc1150credits">2 Credits</string>
 
     <string name="cisc3330title">Foundations of Parallel and Distributed Computing</string>
     <string name="cisc3330">Survey of parallel and distributed hardware fundamentals, including SMP machines,
@@ -43,6 +47,7 @@
     threads, client/server and peer to peer, and issues of synchronization. Complexity
     considerations and the limits of parallelism.</string>
     <string name="cisc3330texts">Up to instructor</string>
+    <string name="cisc3330credits">3 Credits</string>
 
     <string name="cisc3350title">Workstation Programming</string>
     <string name="cisc3350">Programming techniques for development of applications on networks of workstations.
@@ -51,6 +56,7 @@
     programming; remote process creation, the client-server model, message passing.</string>
     <string name="cisc3350texts">•Kay A. Robbins and Steven Robbins, Unix System Programming, 2nd edition, Prentice
     Hall, 2003. (RR) </string>
+    <string name="cisc3350credits">3 Credits</string>
 
     <string name="cisc4331title">System and Network Administration</string>
     <string name="cisc4331">Installation, configuration, and maintenance of an operating system.
@@ -58,6 +64,7 @@
         maintenance of network utilities such as email, web server, and other services. Use of
         network diagnostic tools. Identification and repair of network and configuration problems. </string>
     <string name="cisc4331texts">Up to instructor</string>
+    <string name="cisc4331credits">3 Credits</string>
 
     <string name="cisc4335title">Parallel and Distributed Computing</string>
     <string name="cisc4335">Development of parallel and distributed applications. Examples taken from scientific
@@ -70,6 +77,7 @@
     Corp., 2008\n
     •Parallel Processing with CUDA, Tom R. Halfhill, Microprocessor Report, January 28,
     2008. </string>
+    <string name="cisc4335credits">3 Credits</string>
 
     <string name="cisc1600title">Introduction to Multimedia Computing</string>
     <string name="cisc1600">Introduction to multimedia topics, including: web design, game design, animation, data
@@ -80,6 +88,7 @@
     and narratives. Computer-based sound editing. Introduction to agent-based programming for
     simulations and robotics. Uses of multimedia in industry. Hands-on exercises.</string>
     <string name="cisc1600texts">Up to instructor</string>
+    <string name="cisc1600credits">3 Credits</string>
 
     <string name="cisc3650title">Human-Computer Interaction</string>
     <string name="cisc3650">Overview of computer-human interfaces with an emphasis on innovative approaches.
@@ -87,6 +96,7 @@
     Interfaces employing speech recognition and computer vision. Sensor technologies.
     Computer supported cooperative work. Virtual and augmented realities. </string>
     <string name="cisc3650texts">Up to instructor</string>
+    <string name="cisc3650credits">3 Credits</string>
     
     <string name="cisc3660title">Game Programming</string>
     <string name="cisc3660">Game programming techniques. 2D and 3D games. Data representations of virtual elements.
@@ -97,12 +107,14 @@
     creation and adaptation. </string>
     <string name="cisc3660texts">•A. Watt and F. Policarpo, 3D Games: Volume I: Real-Time Rendering and Software
     Technology, Addison Wesley, 2000. </string>
+    <string name="cisc3660credits">3 Credits</string>
     
     <string name="cisc3665title">Game Design</string>
     <string name="cisc3665">Introduction to designing the intelligence behind computer games. Fundamentals
         of designing, programming and troubleshooting game behavior. Documenting and critiquing design.
         Multi-week small-group projects in game design. </string>
     <string name="cisc3665texts">Up to instructor</string>
+    <string name="cisc3665credits">3 Credits</string>
 
     <string name="cisc3620title">Computer Graphics</string>
     <string name="cisc3620">Fundamentals of computer graphics programming. Graphics hardware and software standards. 2D
@@ -110,6 +122,7 @@
     graphics pipeline. Graphical user interfaces. Underlying concepts in computer graphics systems,
     including games, animation, modeling, rendering, and paint systems.</string>
     <string name="cisc3620texts">•Angel, Interactive Computer Graphics: A Top-Down Approach Using OpenGL,5/E, AddisonWesley.</string>
+    <string name="cisc3620credits">3 Credits</string>
 
     <string name="cisc3630title">Multimedia Computing</string>
     <string name="cisc3630">Surveys the interrelationship of state-of-the-art communication, and computer technology. Hardware,
@@ -119,6 +132,7 @@
     <string name="cisc3630texts">•Multimedia: Making it Work, 7th edition, Tay Vaughn, McGraw Hill, 2006\n
     •Johnson, Steven M, Macromedia Director 8 Shockwave Studio (Complete), Course
     Technology, 2001. </string>
+    <string name="cisc3630credits">3 Credits</string>
 
     <string name="cisc1110title">Introduction to Programming Using C++</string>
     <string name="cisc1110">Algorithms, computers and programs. Writing, debugging, and testing programs. Loops and
@@ -126,6 +140,7 @@
     classes. Sorting, searching and other basic algorithms. Input and output. Programming
     applications selected from various disciplines. History and basic concepts of computer science.</string>
     <string name="cisc1110texts">•Problem Solving With C++ (authors: J. Jones and K. Harrow)\n•Workbook for C++ (author: Langsam)</string>
+    <string name="cisc1110credits">4 Credits</string>
 
     <string name="cisc3110title">Advanced Programming Techniques</string>
     <string name="cisc3110">A second course in programming. Advanced programming techniques emphasizing
@@ -138,6 +153,7 @@
     <string name="cisc3110texts">•Gaddis, T., Walters, J. and Muganda, G. Starting Out with Gaddis: Early Objects, 6th
     edition, Addison Wesley, 2007.\n•Peek, J, Todino-Gonquet, G. and Strang , J., Learning the Unix Operating System, 5th
     edition, O.Reilly, 2001</string>
+    <string name="cisc3110credits">4 Credits</string>
 
     <string name="cisc3120title">Design and Implementation of Software Applications I</string>
     <string name="cisc3120">Introduction to essential topics for modern software application development: Graphical User
@@ -148,6 +164,7 @@
     including Application Programming Interfaces (APIs) and Integrated Development Environments
     (IDEs). Students should be prepared to take CISC 3140 in the following semester.</string>
     <string name="cisc3120texts">Up to instructor</string>
+    <string name="cisc3120credits">3 Credits</string>
 
     <string name="cisc3130title">Data Structures</string>
     <string name="cisc3130">Stacks and their implementations. Prefix, postfix, and infix notation. Queues and linked
@@ -155,12 +172,14 @@
     traversals. Sorting and searching techniques. Graph algorithms. </string>
     <string name="cisc3130texts">•Data Structures Using C and C++ second edition, by: Langsam, Tenenbaum,
     and Augenstein</string>
+    <string name="cisc3130credits">4 Credits</string>
 
     <string name="cisc3140title">Design and Implementation of Software Applications II</string>
     <string name="cisc3140">Continuation of CISC 3120. Emphasis on building and testing a system designed and prototyped
     in CISC 3120. Emphasis on software development, database systems, intelligent systems and
     software engineering. This course should be taken the semester after CISC 3120</string>
     <string name="cisc3140texts">Up to instructor</string>
+    <string name="cisc3140credits">3 Credits</string>
 
     <string name="cisc3150title">Object-Oriented Programming</string>
     <string name="cisc3150">Principles and implementation issues in object-oriented programming languages, including:
@@ -170,6 +189,7 @@
     singleton, and model-view-controller. Formal design specifications such as UML. Case studies
     chosen from multiple languages such as C++, Java and Smalltalk.</string>
     <string name="cisc3150texts">Up to instructor</string>
+    <string name="cisc3150credits">3 Credits</string>
 
     <string name="cisc2210title">Introduction to Discrete Structures</string>
     <string name="cisc2210">Elementary set theory, functions, relations, and Boolean algebra. Switching circuits, gating
@@ -178,6 +198,7 @@
     to error analysis. </string>
     <string name="cisc2210texts">•Kenneth H. Rosen, Discrete Mathematics and its Applications, McGraw Hill, 5th Ed., ISBN 0-07-
     289905\n•Students Solutions Guide, McGraw Hill, ISBN 0-07-2336102 </string>
+    <string name="cisc2210credits">3 Credits</string>
 
     <string name="cisc2820wtitle">Computers and Ethics</string>
     <string name="cisc2820w">Analysis of ethical issues pertaining to computers and the workplace, anonymity and
@@ -191,6 +212,7 @@
     Bartlett Publishers, Massachusetts, 2005. ISBN: 0-7637-0064-9\n
     •Richard A. Spinello and Herman T. Tavani, Readings in Cyberethics (2nd ed.),
     Jones and Bartlett Publishers, Massachusetts, 2005. ISBN: 0-7637-2410-6 </string>
+    <string name="cisc2820wcredits">3 Credits</string>
 
     <string name="cisc3310title">Principles of Computer Architecture</string>
     <string name="cisc3310">Introduction to digital logic. Basic digital circuits. Boolean algebra and combinational logic, data
@@ -200,6 +222,7 @@
     students who are enrolled in or have completed Computer and Information Science 3305 [27] or
     3315 [28].)</string>
     <string name="cisc3310texts">Up to instructor</string>
+    <string name="cisc3310credits">4 Credits</string>
 
     <string name="cisc3320title"> Operating Systems </string>
     <string name="cisc3320">Design and implementation of operating systems for large computers.
@@ -207,6 +230,7 @@
     Communications, conversational computing, computer networks. Memory protection,
     interrupts, segmentation, paging, and virtual memories. </string>
     <string name="cisc3320texts">•Operating System Concepts (6th or 7th edition), by: Silberschatz, Galvin and Gagne </string>
+    <string name="cisc3320credits">3 Credits</string>
 
     <string name="cisc3220title">Analysis of Algorithms</string>
     <string name="cisc3220">Algorithms, data structures, and their analysis. Applications for and solution to recurrence problems.
@@ -215,6 +239,7 @@
     transitive closure and equivalences. NP-completeness. </string>
     <string name="cisc3220texts">•Baase, Sara and Van Gelder. Computer Algorithms: Introduction to Design and Analysis, 3rd
     ed., Addison-Wesley. </string>
+    <string name="cisc3220credits">3 Credits</string>
 
     <string name="cisc4900title">Independent and Group Projects I, II</string>
     <string name="cisc4900">Planning and development of a real computer systems project supervised by a faculty member.
@@ -223,6 +248,8 @@
     approximately 15 hours/week of work), plus tutoring. Students may find their own project, within or
     outside the school. Many students use projects at work for their project.  </string>
     <string name="cisc4900texts">None</string>
+    <string name="cisc4900credits">3 Credits</string>
+
     <string name="title_activity_maps">Map</string>
     <string name="title_activity_courses_info">CoursesInfo</string>
     <string name="action_settings">Settings</string>
