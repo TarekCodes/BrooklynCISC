@@ -202,4 +202,3 @@ public class Courses extends AppCompatActivity {
 //TODO keep adding more majors/minors/classes
 //TODO figure something out for electives and math classes etc.
 //TODO cisc 4900 is different from cisc 4905
-//TODO textsbooks are subject to change
