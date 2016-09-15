@@ -12,18 +12,18 @@ public class ciscRoutes extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(pickLayout(getIntent().getExtras().getInt("buttonID")));
+        setContentView(pickRoute(getIntent().getExtras().getInt("buttonID")));
     }
 
 
-    public void goTo(View view) {
+    public void goToCourse(View view) {
         Intent intent = new Intent(this, Courses.class);
         intent.putExtra("code", ((Button) view).getText().toString());
         startActivityForResult(intent, 0);
     }
 
 
-    private int pickLayout(int buttonID) {
+    private int pickRoute(int buttonID) {
         switch (buttonID) {
             case R.id.minor_cs:
                 return R.layout.csminor;

@@ -23,7 +23,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="16dp"
-                android:onClick="goTo"
+                android:onClick="goToCourse"
                 android:text="CISC 1110" />
 
             <Button
@@ -32,7 +32,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="16dp"
-                android:onClick="goTo"
+                android:onClick="goToCourse"
                 android:text="CISC 3110" />
 
             <Button
@@ -41,7 +41,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="16dp"
-                android:onClick="goTo"
+                android:onClick="goToCourse"
                 android:text="CISC 3120" />
 
             <Button
@@ -50,7 +50,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="16dp"
-                android:onClick="goTo"
+                android:onClick="goToCourse"
                 android:text="CISC 3130" />
             <Button
                 android:id="@+id/cisc3630_button"
@@ -58,7 +58,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="16dp"
-                android:onClick="goTo"
+                android:onClick="goToCourse"
                 android:text="CISC 3630" />
 
         </LinearLayout>
@@ -75,7 +75,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="16dp"
-                android:onClick="goTo"
+                android:onClick="goToCourse"
                 android:text="CISC 1050" />
             <Button
                 android:id="@+id/cisc2210_button"
@@ -83,7 +83,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="16dp"
-                android:onClick="goTo"
+                android:onClick="goToCourse"
                 android:text="CISC 2210" />
             <Button
                 android:id="@+id/cisc2531_button"
@@ -91,7 +91,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="16dp"
-                android:onClick="goTo"
+                android:onClick="goToCourse"
                 android:text="CISC 2531" />
 
             <Button
@@ -100,7 +100,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="16dp"
-                android:onClick="goTo"
+                android:onClick="goToCourse"
                 android:text="CISC 3310" />
             <Button
                 android:id="@+id/cisc3800_button"
@@ -108,7 +108,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="16dp"
-                android:onClick="goTo"
+                android:onClick="goToCourse"
                 android:text="CISC 3800" />
 
         </LinearLayout>

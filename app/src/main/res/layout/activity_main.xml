@@ -41,7 +41,7 @@
                     android:layout_marginLeft="8dp"
                     android:layout_marginRight="8dp"
                     android:layout_marginTop="16dp"
-                    android:onClick="goTo"
+                    android:onClick="goToRoute"
                     android:text="Computer Science" />
 
                 <Button
@@ -51,7 +51,7 @@
                     android:layout_gravity="center_horizontal"
                     android:layout_marginLeft="8dp"
                     android:layout_marginRight="8dp"
-                    android:onClick="goTo"
+                    android:onClick="goToRoute"
                     android:layout_marginTop="32dp"
                     android:text="Information Systems" />
 
@@ -59,7 +59,7 @@
                     android:id="@+id/major_mmc"
                     android:layout_width="match_parent"
                     android:layout_height="70dp"
-                    android:onClick="goTo"
+                    android:onClick="goToRoute"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginLeft="8dp"
                     android:layout_marginRight="8dp"
@@ -71,7 +71,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="70dp"
                     android:layout_gravity="center_horizontal"
-                    android:onClick="goTo"
+                    android:onClick="goToRoute"
                     android:layout_marginLeft="8dp"
                     android:layout_marginRight="8dp"
                     android:layout_marginTop="32dp"
@@ -119,13 +119,13 @@
                     android:layout_marginLeft="8dp"
                     android:layout_marginRight="8dp"
                     android:layout_marginTop="16dp"
-                    android:onClick="goTo"
+                    android:onClick="goToRoute"
                     android:text="Computer Science" />
 
                 <Button
                     android:id="@+id/minor_mmc"
                     android:layout_width="match_parent"
-                    android:onClick="goTo"
+                    android:onClick="goToRoute"
                     android:layout_height="70dp"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginLeft="8dp"
@@ -137,7 +137,7 @@
                     android:id="@+id/minor_pdc"
                     android:layout_width="match_parent"
                     android:layout_height="70dp"
-                    android:onClick="goTo"
+                    android:onClick="goToRoute"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginLeft="8dp"
                     android:layout_marginRight="8dp"
@@ -149,7 +149,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="70dp"
                     android:layout_gravity="center_horizontal"
-                    android:onClick="goTo"
+                    android:onClick="goToRoute"
                     android:layout_marginLeft="8dp"
                     android:layout_marginRight="8dp"
                     android:layout_marginTop="32dp"

@@ -197,7 +197,6 @@ public class Courses extends AppCompatActivity {
 
 //TODO sort the cases based on course number here and in res too
 //TODO add a prereq section
-//TODO rename methods like goTo etc
 //TODO split course' info into different res files
 //TODO combine all courses into one class with appropriate functions for ease of use
 //TODO keep adding more majors/minors/classes

@@ -22,7 +22,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="16dp"
-                android:onClick="goTo"
+                android:onClick="goToCourse"
                 android:text="CISC 1110" />
 
             <Button
@@ -31,7 +31,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="16dp"
-                android:onClick="goTo"
+                android:onClick="goToCourse"
                 android:text="CISC 1150" />
 
             <Button
@@ -40,7 +40,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="16dp"
-                android:onClick="goTo"
+                android:onClick="goToCourse"
                 android:text="CISC 3110" />
 
 
@@ -50,7 +50,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="16dp"
-                android:onClick="goTo"
+                android:onClick="goToCourse"
                 android:text="CISC 3130" />
 
 
@@ -69,7 +69,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="16dp"
-                android:onClick="goTo"
+                android:onClick="goToCourse"
                 android:text="CISC 3330" />
 
             <Button
@@ -78,7 +78,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="16dp"
-                android:onClick="goTo"
+                android:onClick="goToCourse"
                 android:text="CISC 3350" />
 
             <Button
@@ -87,7 +87,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="16dp"
-                android:onClick="goTo"
+                android:onClick="goToCourse"
                 android:text="CISC 4331" />
 
             <Button
@@ -96,7 +96,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="16dp"
-                android:onClick="goTo"
+                android:onClick="goToCourse"
                 android:text="CISC 4335" />
         </LinearLayout>
     </LinearLayout>
