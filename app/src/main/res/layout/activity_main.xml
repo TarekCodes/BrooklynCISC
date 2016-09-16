@@ -169,13 +169,6 @@
             </LinearLayout>
         </LinearLayout>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="1dp"
-            android:layout_below="@id/main_linear_layout"
-            android:layout_margin="8dp"
-            android:background="#000000" />
-
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

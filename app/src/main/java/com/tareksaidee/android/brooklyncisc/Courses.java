@@ -1,7 +1,7 @@
 package com.tareksaidee.android.brooklyncisc;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
 public class Courses extends AppCompatActivity {
@@ -194,7 +194,8 @@ public class Courses extends AppCompatActivity {
 
 
 
-
+//TODO tabbed screen for majors/minors
+//TODO @Override public boolean onOptionsItemSelected(MenuItem item)
 //TODO sort the cases based on course number here and in res too
 //TODO add a prereq section
 //TODO split course' info into different res files
