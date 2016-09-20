@@ -193,8 +193,9 @@ public class Courses extends AppCompatActivity {
 
 
 
-
+//TODO add some helpful links
 //TODO tabbed screen for majors/minors
+//TODO link to a textbook price comparision website for each textbook
 //TODO @Override public boolean onOptionsItemSelected(MenuItem item)
 //TODO sort the cases based on course number here and in res too
 //TODO add a prereq section
