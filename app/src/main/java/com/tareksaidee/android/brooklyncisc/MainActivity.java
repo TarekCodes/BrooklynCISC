@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void goToRoute(View view){
         Button sourceButton = (Button) view;
-        Intent intent = new Intent(this, ciscRoutes.class);
+        Intent intent = new Intent(this, Routes.class);
         intent.putExtra("buttonID",sourceButton.getId());
         startActivityForResult(intent,0);
     }

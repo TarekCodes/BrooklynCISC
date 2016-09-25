@@ -196,7 +196,6 @@ public class Courses extends AppCompatActivity {
 //TODO add some helpful links
 //TODO tabbed screen for majors/minors
 //TODO link to a textbook price comparision website for each textbook
-//TODO @Override public boolean onOptionsItemSelected(MenuItem item)
 //TODO sort the cases based on course number here and in res too
 //TODO add a prereq section
 //TODO split course' info into different res files
@@ -204,3 +203,4 @@ public class Courses extends AppCompatActivity {
 //TODO keep adding more majors/minors/classes
 //TODO figure something out for electives and math classes etc.
 //TODO cisc 4900 is different from cisc 4905
+//TODO listview for long lists of classes
