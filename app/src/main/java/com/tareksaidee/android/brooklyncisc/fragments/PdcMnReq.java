@@ -9,7 +9,9 @@ import android.view.ViewGroup;
 import com.tareksaidee.android.brooklyncisc.R;
 
 public class PdcMnReq extends Fragment {
-    public PdcMnReq(){}
+    public PdcMnReq() {
+    }
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
