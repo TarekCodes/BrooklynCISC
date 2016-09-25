@@ -128,6 +128,6 @@
             android:layout_gravity="center_horizontal"
             android:layout_margin="16dp"
             android:onClick="goToCourse"
-            android:text="CISC 4900/4905" />
+            android:text="CISC 4900" />
     </LinearLayout>
 </LinearLayout>

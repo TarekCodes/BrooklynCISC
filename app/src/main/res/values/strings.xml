@@ -241,10 +241,10 @@
     ed., Addison-Wesley. </string>
     <string name="cisc3220credits">3 Credits</string>
 
-    <string name="cisc4900title">Independent and Group Projects I, II</string>
+    <string name="cisc4900title">Independent and Group Projects I</string>
     <string name="cisc4900">Planning and development of a real computer systems project supervised by a faculty member.
-    Achievement measured by demonstrable attainment of the project’s goals. CISC 4900 or CISC 5001 is required of all CIS majors. They both require department permission for
-    registration. Both require completion of a major computer science project (involving
+    Achievement measured by demonstrable attainment of the project’s goals. CISC 4900 is required of all CIS majors.
+    Department permission is required for registration. Completion of a major computer science project (involving
     approximately 15 hours/week of work), plus tutoring. Students may find their own project, within or
     outside the school. Many students use projects at work for their project.  </string>
     <string name="cisc4900texts">None</string>

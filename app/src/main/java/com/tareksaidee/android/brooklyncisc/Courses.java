@@ -181,7 +181,7 @@ public class Courses extends AppCompatActivity {
                 textbooks.setText(R.string.cisc3220texts);
                 credits.setText(R.string.cisc3220credits);
                 break;
-            case "CISC 4900/4905":
+            case "CISC 4900":
                 course.setText(R.string.cisc4900);
                 title.setText(R.string.cisc4900title);
                 textbooks.setText(R.string.cisc4900texts);
@@ -202,5 +202,4 @@ public class Courses extends AppCompatActivity {
 //TODO combine all courses into one class with appropriate functions for ease of use
 //TODO keep adding more majors/minors/classes
 //TODO figure something out for electives and math classes etc.
-//TODO cisc 4900 is different from cisc 4905
 //TODO listview for long lists of classes
