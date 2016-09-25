@@ -21,6 +21,6 @@ public class CmReq extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.activity_cm_req, container, false);
+        return inflater.inflate(R.layout.cm_req, container, false);
     }
 }

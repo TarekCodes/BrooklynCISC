@@ -21,6 +21,6 @@ public class CmElec extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.activity_cm_elec, container, false);
+        return inflater.inflate(R.layout.cm_elec, container, false);
     }
 }
