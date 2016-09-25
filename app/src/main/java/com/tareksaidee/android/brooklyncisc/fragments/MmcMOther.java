@@ -9,7 +9,9 @@ import android.view.ViewGroup;
 import com.tareksaidee.android.brooklyncisc.R;
 
 public class MmcMOther extends Fragment {
-    public MmcMOther(){}
+    public MmcMOther() {
+    }
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

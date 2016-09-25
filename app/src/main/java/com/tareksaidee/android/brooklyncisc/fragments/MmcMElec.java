@@ -9,7 +9,9 @@ import android.view.ViewGroup;
 import com.tareksaidee.android.brooklyncisc.R;
 
 public class MmcMElec extends Fragment {
-    public MmcMElec(){}
+    public MmcMElec() {
+    }
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

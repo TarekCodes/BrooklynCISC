@@ -8,12 +8,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
-import com.tareksaidee.android.brooklyncisc.fragments.CmElec;
-import com.tareksaidee.android.brooklyncisc.fragments.CmOther;
-import com.tareksaidee.android.brooklyncisc.fragments.CmReq;
-import com.tareksaidee.android.brooklyncisc.fragments.CsMElec;
-import com.tareksaidee.android.brooklyncisc.fragments.CsMOther;
-import com.tareksaidee.android.brooklyncisc.fragments.CsMReq;
+import com.tareksaidee.android.brooklyncisc.fragments.*;
 
 public class Routes extends AppCompatActivity {
     private TabLayout tabLayout;
@@ -39,22 +34,54 @@ public class Routes extends AppCompatActivity {
     }
 
     private void pickFragments() {
-            switch (sourceID){
-                case R.id.major_cm:
-                    adapter.addFragment(new CmReq(), "Requirements");
-                    adapter.addFragment(new CmElec(), "Electives");
-                    adapter.addFragment(new CmOther(), "Other");
-                    break;
-                case R.id.major_cs:
-                    adapter.addFragment(new CsMReq(), "Requirements");
-                    adapter.addFragment(new CsMElec(), "Electives");
-                    adapter.addFragment(new CsMOther(), "Other");
-                    break;
-                default:
-                    adapter.addFragment(new CmReq(), "Requirements");
-                    adapter.addFragment(new CmElec(), "Electives");
-                    adapter.addFragment(new CmOther(), "Other");
-            }
+        switch (sourceID) {
+            case R.id.major_cm:
+                adapter.addFragment(new CmReq(), "Requirements");
+                adapter.addFragment(new CmElec(), "Electives");
+                adapter.addFragment(new CmOther(), "Other");
+                break;
+            case R.id.major_cs:
+                adapter.addFragment(new CsMReq(), "Requirements");
+                adapter.addFragment(new CsMElec(), "Electives");
+                adapter.addFragment(new CsMOther(), "Other");
+                break;
+            case R.id.major_is:
+                adapter.addFragment(new IsMReq(), "Requirements");
+                adapter.addFragment(new IsMElec(), "Electives");
+                adapter.addFragment(new IsMOther(), "Other");
+                break;
+            case R.id.major_mmc:
+                adapter.addFragment(new MmcMReq(), "Requirements");
+                adapter.addFragment(new MmcMElec(), "Electives");
+                adapter.addFragment(new MmcMOther(), "Other");
+                break;
+            case R.id.minor_cgs:
+                adapter.addFragment(new CgsMnReq(), "Requirements");
+                adapter.addFragment(new CsMnElec(), "Electives");
+                adapter.addFragment(new CsMnOther(), "Other");
+                break;
+            case R.id.minor_cs:
+                adapter.addFragment(new CsMnReq(), "Requirements");
+                adapter.addFragment(new CsMnElec(), "Electives");
+                adapter.addFragment(new CsMnOther(), "Other");
+                break;
+            case R.id.minor_mmc:
+                adapter.addFragment(new MmcMnReq(), "Requirements");
+                adapter.addFragment(new MmcMnElec(), "Electives");
+                adapter.addFragment(new MmcMnOther(), "Other");
+                break;
+            case R.id.minor_pdc:
+                adapter.addFragment(new PdcMnReq(), "Requirements");
+                adapter.addFragment(new PdcMnElec(), "Electives");
+                adapter.addFragment(new PdcMnOther(), "Other");
+                break;
+        }
+    }
+
+    public void goToCourse(View view) {
+        Intent intent = new Intent(this, Courses.class);
+        intent.putExtra("code", ((Button) view).getText().toString());
+        startActivityForResult(intent, 0);
     }
 
     private int pickRoute() {
@@ -69,14 +96,15 @@ public class Routes extends AppCompatActivity {
                 return R.layout.pdcminor;
             case R.id.major_cm:
                 return R.layout.cmmajor;
+            case R.id.major_cs:
+                return R.layout.csmajor;
+            case R.id.minor_cgs:
+                return R.layout.cgsminor;
+            case R.id.major_is:
+                return R.layout.ismajor;
             default:
                 return R.layout.csmajor;
         }
     }
 
-    public void goToCourse(View view) {
-        Intent intent = new Intent(this, Courses.class);
-        intent.putExtra("code", ((Button) view).getText().toString());
-        startActivityForResult(intent, 0);
-    }
 }
