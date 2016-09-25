@@ -41,24 +41,6 @@
             android:label="@string/title_activity_maps" />
         <activity android:name=".Courses" />
         <activity android:name=".Routes" />
-        <activity android:name=".fragments.CsMnReq" />
-        <activity android:name=".fragments.CsMnElec" />
-        <activity android:name=".fragments.CsMnOther" />
-        <activity android:name=".fragments.IsMReq" />
-        <activity android:name=".fragments.IsMElec" />
-        <activity android:name=".fragments.IsMOther" />
-        <activity android:name=".fragments.MmcMReq" />
-        <activity android:name=".fragments.MmcMElec" />
-        <activity android:name=".fragments.MmcMOther" />
-        <activity android:name=".fragments.MmcMnReq" />
-        <activity android:name=".fragments.MmcMnElec" />
-        <activity android:name=".fragments.MmcMnOther" />
-        <activity android:name=".fragments.PdcMnReq" />
-        <activity android:name=".fragments.PdcMnElec" />
-        <activity android:name=".fragments.PdcMnOther" />
-        <activity android:name=".fragments.CgsMnReq" />
-        <activity android:name=".fragments.CgsMnElec" />
-        <activity android:name=".fragments.CgsMnOther"></activity>
     </application>
 
 </manifest>
