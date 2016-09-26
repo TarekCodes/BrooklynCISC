@@ -1,9 +1,241 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/cs_elec"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context="com.tareksaidee.android.brooklyncisc.fragments.CsMElec">
 
-</RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="8dp"
+            android:text="Two electives from the following list:"
+            android:textSize="20sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/cisc3160_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="16dp"
+                    android:onClick="goToCourse"
+                    android:text="CISC 3160" />
+
+                <Button
+                    android:id="@+id/cisc3171_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="16dp"
+                    android:onClick="goToCourse"
+                    android:text="CISC 3171" />
+
+                <Button
+                    android:id="@+id/cisc3240_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="16dp"
+                    android:onClick="goToCourse"
+                    android:text="CISC 3240" />
+
+                <Button
+                    android:id="@+id/cisc3315_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="16dp"
+                    android:onClick="goToCourse"
+                    android:text="CISC 3315" />
+
+                <Button
+                    android:id="@+id/cisc3325_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="16dp"
+                    android:onClick="goToCourse"
+                    android:text="CISC 3325" />
+
+                <Button
+                    android:id="@+id/cisc3330_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="16dp"
+                    android:onClick="goToCourse"
+                    android:text="CISC 3330" />
+
+                <Button
+                    android:id="@+id/cisc3340_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="16dp"
+                    android:onClick="goToCourse"
+                    android:text="CISC 3340" />
+
+                <Button
+                    android:id="@+id/cisc3343_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="16dp"
+                    android:onClick="goToCourse"
+                    android:text="CISC 3343" />
+
+                <Button
+                    android:id="@+id/cisc3345_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="16dp"
+                    android:onClick="goToCourse"
+                    android:text="CISC 3345" />
+
+                <Button
+                    android:id="@+id/cisc3810_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="16dp"
+                    android:onClick="goToCourse"
+                    android:text="CISC 3810" />
+
+                <Button
+                    android:id="@+id/cisc3820_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="16dp"
+                    android:onClick="goToCourse"
+                    android:text="CISC 3820" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/cisc3350_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="16dp"
+                    android:onClick="goToCourse"
+                    android:text="CISC 3350" />
+
+                <Button
+                    android:id="@+id/cisc3390_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="16dp"
+                    android:onClick="goToCourse"
+                    android:text="CISC 3390" />
+
+                <Button
+                    android:id="@+id/cisc3410_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="16dp"
+                    android:onClick="goToCourse"
+                    android:text="CISC 3410" />
+
+                <Button
+                    android:id="@+id/cisc3415_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="16dp"
+                    android:onClick="goToCourse"
+                    android:text="CISC 3415" />
+
+                <Button
+                    android:id="@+id/cisc3610_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="16dp"
+                    android:onClick="goToCourse"
+                    android:text="CISC 3610" />
+
+                <Button
+                    android:id="@+id/cisc3620_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="16dp"
+                    android:onClick="goToCourse"
+                    android:text="CISC 3620" />
+
+                <Button
+                    android:id="@+id/cisc3630_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="16dp"
+                    android:onClick="goToCourse"
+                    android:text="CISC 3630" />
+
+                <Button
+                    android:id="@+id/cisc3650_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="16dp"
+                    android:onClick="goToCourse"
+                    android:text="CISC 3650" />
+
+                <Button
+                    android:id="@+id/cisc3660_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="16dp"
+                    android:onClick="goToCourse"
+                    android:text="CISC 3660" />
+
+                <Button
+                    android:id="@+id/cisc3665_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="16dp"
+                    android:onClick="goToCourse"
+                    android:text="CISC 3665" />
+
+                <Button
+                    android:id="@+id/cisc3800_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="16dp"
+                    android:onClick="goToCourse"
+                    android:text="CISC 3800" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

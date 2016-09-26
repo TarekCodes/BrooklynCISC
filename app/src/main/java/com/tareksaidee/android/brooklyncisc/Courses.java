@@ -25,11 +25,29 @@ public class Courses extends AppCompatActivity {
                 textbooks.setText(R.string.cisc1050texts);
                 credits.setText(R.string.cisc1050credits);
                 break;
+            case "CISC 1180":
+                course.setText(R.string.cisc1180);
+                title.setText(R.string.cisc1180title);
+                textbooks.setText(R.string.cisc1180texts);
+                credits.setText(R.string.cisc1180credits);
+                break;
             case "CISC 2531":
                 course.setText(R.string.cisc2531);
                 title.setText(R.string.cisc2531title);
                 textbooks.setText(R.string.cisc2531texts);
                 credits.setText(R.string.cisc2531credits);
+                break;
+            case "CISC 3820":
+                course.setText(R.string.cisc3820);
+                title.setText(R.string.cisc3820title);
+                textbooks.setText(R.string.cisc3820texts);
+                credits.setText(R.string.cisc3820credits);
+                break;
+            case "CISC 3810":
+                course.setText(R.string.cisc3810);
+                title.setText(R.string.cisc3810title);
+                textbooks.setText(R.string.cisc3810texts);
+                credits.setText(R.string.cisc3810credits);
                 break;
             case "CISC 3800":
                 course.setText(R.string.cisc3800);
@@ -53,11 +71,11 @@ public class Courses extends AppCompatActivity {
                 break;
 
             case "CISC 3330":
-            course.setText(R.string.cisc3330);
-            title.setText(R.string.cisc3330title);
-            textbooks.setText(R.string.cisc3330texts);
-            credits.setText(R.string.cisc3330credits);
-            break;
+                course.setText(R.string.cisc3330);
+                title.setText(R.string.cisc3330title);
+                textbooks.setText(R.string.cisc3330texts);
+                credits.setText(R.string.cisc3330credits);
+                break;
 
             case "CISC 3350":
                 course.setText(R.string.cisc3350);
@@ -86,7 +104,24 @@ public class Courses extends AppCompatActivity {
                 textbooks.setText(R.string.cisc3620texts);
                 credits.setText(R.string.cisc3620credits);
                 break;
-
+            case "CISC 3415":
+                course.setText(R.string.cisc3415);
+                title.setText(R.string.cisc3415texts);
+                textbooks.setText(R.string.cisc3415texts);
+                credits.setText(R.string.cisc3415credits);
+                break;
+            case "CISC 3410":
+                course.setText(R.string.cisc3410);
+                title.setText(R.string.cisc3410title);
+                textbooks.setText(R.string.cisc3410texts);
+                credits.setText(R.string.cisc3410credits);
+                break;
+            case "CISC 3610":
+                course.setText(R.string.cisc3610);
+                title.setText(R.string.cisc3610title);
+                textbooks.setText(R.string.cisc3610texts);
+                credits.setText(R.string.cisc3610credits);
+                break;
             case "CISC 3650":
                 course.setText(R.string.cisc3650);
                 title.setText(R.string.cisc3650title);
@@ -127,6 +162,12 @@ public class Courses extends AppCompatActivity {
                 textbooks.setText(R.string.cisc3110texts);
                 credits.setText(R.string.cisc3110credits);
                 break;
+            case "CISC 3171":
+                course.setText(R.string.cisc3171);
+                title.setText(R.string.cisc3171title);
+                textbooks.setText(R.string.cisc3171texts);
+                credits.setText(R.string.cisc3171credits);
+                break;
             case "CISC 3120":
                 course.setText(R.string.cisc3120);
                 title.setText(R.string.cisc3120title);
@@ -151,12 +192,19 @@ public class Courses extends AppCompatActivity {
                 textbooks.setText(R.string.cisc3150texts);
                 credits.setText(R.string.cisc3150credits);
                 break;
+            case "CISC 3160":
+                course.setText(R.string.cisc3160);
+                title.setText(R.string.cisc3160title);
+                textbooks.setText(R.string.cisc3160texts);
+                credits.setText(R.string.cisc3160credits);
+                break;
             case "CISC 2210":
                 course.setText(R.string.cisc2210);
                 title.setText(R.string.cisc2210title);
                 textbooks.setText(R.string.cisc2210texts);
                 credits.setText(R.string.cisc2210credits);
                 break;
+            case "PHIL 3318W":
             case "CISC 2820W":
                 course.setText(R.string.cisc2820w);
                 title.setText(R.string.cisc2820wtitle);
@@ -169,11 +217,53 @@ public class Courses extends AppCompatActivity {
                 textbooks.setText(R.string.cisc3310texts);
                 credits.setText(R.string.cisc3310credits);
                 break;
+            case "CISC 3345":
+                course.setText(R.string.cisc3345);
+                title.setText(R.string.cisc3345title);
+                textbooks.setText(R.string.cisc3345texts);
+                credits.setText(R.string.cisc3345credits);
+                break;
+            case "CISC 3340":
+                course.setText(R.string.cisc3340);
+                title.setText(R.string.cisc3340title);
+                textbooks.setText(R.string.cisc3340texts);
+                credits.setText(R.string.cisc3340credits);
+                break;
+            case "CISC 3343":
+                course.setText(R.string.cisc3343);
+                title.setText(R.string.cisc3343title);
+                textbooks.setText(R.string.cisc3343texts);
+                credits.setText(R.string.cisc3343credits);
+                break;
+            case "CISC 3390":
+                course.setText(R.string.cisc3390);
+                title.setText(R.string.cisc3390title);
+                textbooks.setText(R.string.cisc3390texts);
+                credits.setText(R.string.cisc3390credits);
+                break;
             case "CISC 3320":
                 course.setText(R.string.cisc3320);
                 title.setText(R.string.cisc3320title);
                 textbooks.setText(R.string.cisc3320texts);
                 credits.setText(R.string.cisc3320credits);
+                break;
+            case "CISC 3315":
+                course.setText(R.string.cisc3315);
+                title.setText(R.string.cisc3315title);
+                textbooks.setText(R.string.cisc3315texts);
+                credits.setText(R.string.cisc3315credits);
+                break;
+            case "CISC 3325":
+                course.setText(R.string.cisc3325);
+                title.setText(R.string.cisc3325title);
+                textbooks.setText(R.string.cisc3325texts);
+                credits.setText(R.string.cisc3325credits);
+                break;
+            case "CISC 3240":
+                course.setText(R.string.cisc3240);
+                title.setText(R.string.cisc3240title);
+                textbooks.setText(R.string.cisc3240texts);
+                credits.setText(R.string.cisc3240credits);
                 break;
             case "CISC 3220":
                 course.setText(R.string.cisc3220);
@@ -181,16 +271,27 @@ public class Courses extends AppCompatActivity {
                 textbooks.setText(R.string.cisc3220texts);
                 credits.setText(R.string.cisc3220credits);
                 break;
+            case "CISC 3230":
+                course.setText(R.string.cisc3230);
+                title.setText(R.string.cisc3230title);
+                textbooks.setText(R.string.cisc3230texts);
+                credits.setText(R.string.cisc3230credits);
+                break;
             case "CISC 4900":
                 course.setText(R.string.cisc4900);
                 title.setText(R.string.cisc4900title);
                 textbooks.setText(R.string.cisc4900texts);
                 credits.setText(R.string.cisc4900credits);
                 break;
+            case "CISC 5001":
+                course.setText(R.string.cisc5001);
+                title.setText(R.string.cisc5001title);
+                textbooks.setText(R.string.cisc5001texts);
+                credits.setText(R.string.cisc5001credits);
+                break;
         }
     }
 }
-
 
 
 //TODO add some helpful links
