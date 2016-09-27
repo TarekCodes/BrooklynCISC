@@ -1,6 +1,22 @@
 <resources>
     <string name="app_name">Brooklyn CISC</string>
 
+    <string name="math1201title">Calculus I</string>
+    <string name="math1201">an introduction to calculus: limits and continuity; derivatives and
+        integrals of algebraic, exponential, logarithmic, and trigonometric functions of one
+        variable; methods of numerical approximation, and applications of the derivative to
+        mathematics, physics, engineering, biology, chemistry, and other fields.</string>
+    <string name="math1201texts">Up to instructor</string>
+    <string name="math1201credits">4 Credits</string>
+
+    <string name="math1206title">Calculus II</string>
+    <string name="math1206">Continuation of Calculus I. Trigonometric and inverse trigonometric
+        functions, techniques (closed form and numerical) and applications of integration for
+        functions of one variable, improper integrals, l'Hopital's rule, sequences, series, and
+        polar coordinates.</string>
+    <string name="math1206texts">Up to instructor</string>
+    <string name="math1206credits">4 Credits</string>
+
     <string name="cisc1050title">Introduction to Computer Applications</string>
     <string name="cisc1050">Introduction to the use of the computer in the home and office. Provides an overview of
     microcomputer applications including a brief introduction to computer concepts, Microsoft

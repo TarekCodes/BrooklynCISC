@@ -19,6 +19,18 @@ public class Courses extends AppCompatActivity {
         TextView textbooks = (TextView) findViewById(R.id.cisc_textbooks);
         TextView credits = (TextView) findViewById(R.id.cisc_credits);
         switch (code) {
+            case "MATH 1201":
+                course.setText(R.string.math1201);
+                title.setText(R.string.math1201title);
+                textbooks.setText(R.string.math1201texts);
+                credits.setText(R.string.math1201credits);
+                break;
+            case "MATH 1206":
+                course.setText(R.string.math1206);
+                title.setText(R.string.math1206title);
+                textbooks.setText(R.string.math1206texts);
+                credits.setText(R.string.math1206credits);
+                break;
             case "CISC 1050":
                 course.setText(R.string.cisc1050);
                 title.setText(R.string.cisc1050title);

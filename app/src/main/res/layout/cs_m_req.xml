@@ -89,6 +89,24 @@
             android:text="CISC 3150" />
 
         <Button
+            android:id="@+id/math1201_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="16dp"
+            android:onClick="goToCourse"
+            android:text="MATH 1201" />
+
+        <Button
+            android:id="@+id/math1206_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="16dp"
+            android:onClick="goToCourse"
+            android:text="MATH 1206" />
+
+        <Button
             android:id="@+id/cisc2210_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -106,9 +124,9 @@
                 android:id="@+id/cisc2820w_button"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
                 android:layout_gravity="center"
                 android:layout_margin="16dp"
+                android:layout_weight="1"
                 android:onClick="goToCourse"
                 android:text="CISC 2820W" />
 
@@ -156,9 +174,9 @@
                 android:id="@+id/cisc3220_button"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
                 android:layout_gravity="center"
                 android:layout_margin="16dp"
+                android:layout_weight="1"
                 android:onClick="goToCourse"
                 android:text="CISC 3220" />
 
@@ -188,9 +206,9 @@
                 android:id="@+id/cisc4900_button"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
                 android:layout_gravity="center"
                 android:layout_margin="16dp"
+                android:layout_weight="1"
                 android:onClick="goToCourse"
                 android:text="CISC 4900" />
 
