@@ -12,10 +12,24 @@
     <string name="math1206title">Calculus II</string>
     <string name="math1206">Continuation of Calculus I. Trigonometric and inverse trigonometric
         functions, techniques (closed form and numerical) and applications of integration for
-        functions of one variable, improper integrals, l'Hopital's rule, sequences, series, and
+        functions of one variable, improper integrals, l\'Hopital\'s rule, sequences, series, and
         polar coordinates.</string>
     <string name="math1206texts">Up to instructor</string>
     <string name="math1206credits">4 Credits</string>
+
+    <string name="math2501title">Elementary Probability and Statistics</string>
+    <string name="math2501">Sample spaces; combinatorial theory; elementary probability; random
+        variables; discrete and continuous probability distributions; confidence intervals;
+        hypothesis testing. </string>
+    <string name="math2501texts">Up to instructor</string>
+    <string name="math2501credits">3 Credits</string>
+
+    <string name="math3501title">Introduction to Probability and Statistics</string>
+    <string name="math3501">Sample spaces; combinatorial theory; elementary probability; random
+        variables; discrete and continuous probability distributions; moments and moment-generating
+        functions; applications. </string>
+    <string name="math3501texts">Up to instructor</string>
+    <string name="math3501credits">3 Credits</string>
 
     <string name="cisc1050title">Introduction to Computer Applications</string>
     <string name="cisc1050">Introduction to the use of the computer in the home and office. Provides an overview of

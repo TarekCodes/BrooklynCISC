@@ -105,6 +105,22 @@
             android:layout_margin="16dp"
             android:onClick="goToCourse"
             android:text="MATH 1206" />
+        <Button
+            android:id="@+id/math2501_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="16dp"
+            android:onClick="goToCourse"
+            android:text="MATH 2501" />
+        <Button
+            android:id="@+id/math3501_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="16dp"
+            android:onClick="goToCourse"
+            android:text="MATH 3501" />
 
         <Button
             android:id="@+id/cisc2210_button"
