@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/mmc_m_other"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context="com.tareksaidee.android.brooklyncisc.fragments.MmcMOther">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="8dp"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:text="1. Prerequisite: All students entering into Math 1201 must have met one of the following conditions: Earned a grade of C or higher in Math 1011 or Math 1026 ; achieved scores on the COMPASS test of s_1 = 70, s_2 = 70, s_3 =70, and s_5 =70"/>
 
-</RelativeLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_margin="8dp"
+        android:textColor="#000000"
+        android:text="2. It is recommended that students in this program fulfill their writing-intensivecourse requirement with CISC 2820W or Philosophy (PHIL) 3318W."/>
+
+</LinearLayout>

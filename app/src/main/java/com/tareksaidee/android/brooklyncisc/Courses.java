@@ -43,6 +43,12 @@ public class Courses extends AppCompatActivity {
                 textbooks.setText(R.string.math3501texts);
                 credits.setText(R.string.math3501credits);
                 break;
+            case "CISC 4610":
+                course.setText(R.string.cisc4610);
+                title.setText(R.string.cisc4610title);
+                textbooks.setText(R.string.cisc4610texts);
+                credits.setText(R.string.cisc4610credits);
+                break;
             case "CISC 1050":
                 course.setText(R.string.cisc1050);
                 title.setText(R.string.cisc1050title);
@@ -328,3 +334,4 @@ public class Courses extends AppCompatActivity {
 //TODO keep adding more majors/minors/classes
 //TODO figure something out for electives and math classes etc.
 //TODO listview for long lists of classes
+//TODO name of major/minor on top of list of classes

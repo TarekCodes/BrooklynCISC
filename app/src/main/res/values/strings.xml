@@ -423,6 +423,16 @@
     <string name="cisc3220texts">•Baase, Sara and Van Gelder. Computer Algorithms: Introduction to Design and Analysis, 3rd
     ed., Addison-Wesley. </string>
     <string name="cisc3220credits">3 Credits</string>
+    
+    <string name="cisc4610title">Multimedia Databases</string>
+    <string name="cisc4610">Multimedia data types and formats. Multimedia computer database design
+        issues. Indexing and automated retrieval of text documents, audio files, images and video.
+        Techniques and data structures for efficient multimedia similarity search. System support
+        for distributed multimedia databases. Measurement of multimedia information retrieval
+        effectiveness. Products, applications, and new developments.</string>
+    <string name="cisc4610texts">•L. Dunckley, Multimedia Databases: An Object-Relational Approach,
+        Addison Wesley, 2003. </string>
+    <string name="cisc4610credits">3 Credits</string>
 
     <string name="cisc4900title">Independent and Group Projects I</string>
     <string name="cisc4900">Planning and development of a real computer systems project supervised by a faculty member.
