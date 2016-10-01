@@ -1,26 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/pdc_mn_req"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="horizontal"
     tools:context="com.tareksaidee.android.brooklyncisc.fragments.PdcMnReq">
 
     <LinearLayout
-        android:layout_width="0dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_weight="1"
         android:orientation="vertical">
 
-        <Button
-            android:id="@+id/cisc1110_button"
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:layout_margin="16dp"
-            android:onClick="goToCourse"
-            android:text="CISC 1110" />
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/cisc1110_button"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:layout_weight="1"
+                android:onClick="goToCourse"
+                android:text="CISC 1110" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="OR"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/cisc1180_button"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:layout_weight="1"
+                android:onClick="goToCourse"
+                android:text="CISC 1180" />
+        </LinearLayout>
 
         <Button
             android:id="@+id/cisc1150_button"
@@ -49,16 +71,6 @@
             android:layout_margin="16dp"
             android:onClick="goToCourse"
             android:text="CISC 3130" />
-
-
-    </LinearLayout>
-
-    <LinearLayout
-        android:id="@+id/second_layout"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:layout_weight="1"
-        android:orientation="vertical">
 
         <Button
             android:id="@+id/cisc3330_button"
@@ -96,5 +108,5 @@
             android:onClick="goToCourse"
             android:text="CISC 4335" />
     </LinearLayout>
-</LinearLayout>
 
+</ScrollView>
