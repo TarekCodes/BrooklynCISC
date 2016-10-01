@@ -61,9 +61,9 @@ public class Routes extends AppCompatActivity {
                 adapter.addFragment(new CsMnOther(), "Other");
                 break;
             case R.id.minor_cs:
-                adapter.addFragment(new CsMnReq(), "Requirements");
-                adapter.addFragment(new CsMnElec(), "Electives");
-                adapter.addFragment(new CsMnOther(), "Other");
+                adapter.addFragment(new CsMnReq(), "Minor #1");
+                adapter.addFragment(new CsMnElec(), "Minor #2");
+                adapter.addFragment(new CsMnOther(), "Minor #3");
                 break;
             case R.id.minor_mmc:
                 adapter.addFragment(new MmcMnReq(), "Requirements");
@@ -107,4 +107,8 @@ public class Routes extends AppCompatActivity {
         }
     }
 
+    public void goToElectives(View view) {
+        Intent intent = new Intent(this, Electives.class);
+        startActivity(intent);
+    }
 }

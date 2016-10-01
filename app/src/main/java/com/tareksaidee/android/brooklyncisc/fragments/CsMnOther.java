@@ -10,7 +10,9 @@ import com.tareksaidee.android.brooklyncisc.R;
 
 public class CsMnOther extends Fragment {
 
-    public CsMnOther(){}
+    public CsMnOther() {
+    }
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
