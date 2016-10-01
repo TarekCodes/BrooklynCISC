@@ -30,6 +30,90 @@
         functions; applications. </string>
     <string name="math3501texts">Up to instructor</string>
     <string name="math3501credits">3 Credits</string>
+    
+    <string name="phil3422title">Philosophical Issues in Cognitive Science</string>
+    <string name="phil3422">Introduction to select foundational issues in cognitive science.
+        Consideration of such topics as concept formation, meaning, representation, language,
+        reasoning, consciousness, rationality, the human mind, and machine intelligence. </string>
+    <string name="phil3422texts">Up to instructor</string>
+    <string name="phil3422credits">3 Credits</string>
+
+    <string name="psyc1000title">Introductory Psychology</string>
+    <string name="psyc1000">An introduction to the major facts, principles, methods, and theories of
+        psychology. Topics include the history of psychology, sensory and perceptual processes,
+        learning and cognition, motivation and emotion, psychological development, clinical and
+        abnormal psychology, and biological, social, and personality determinants of behavior.</string>
+    <string name="psyc1000texts">Up to instructor</string>
+    <string name="psyc1000credits">3 Credits</string>
+
+    <string name="psyc3530title">Cognitive Psychology</string>
+    <string name="psyc3530">Psychology of memory, problem solving, decision making, language,
+        imagery, and other cognitive processes. General overview of the field, including
+        information-processing models, studies of thinking, the question of artificial intelligence,
+        strategies for improving memory, and other similar areas.</string>
+    <string name="psyc3530texts">Up to instructor</string>
+    <string name="psyc3530credits">3 Credits</string>
+    
+    <string name="phil3410title">Epistemology: Theory of Knowledge</string>
+    <string name="phil3410">Classical and contemporary theories of the nature of knowledge and
+        belief. Discussion of skepticism, rationalism, empiricism, coherentism, foundationalism.
+        Analysis of such concepts as probability, certainty, perception, evidence, truth.</string>
+    <string name="phil3410texts">Up to instructor</string>
+    <string name="phil3410credits">4 Credits</string>
+
+    <string name="phil3123title">Twentieth-Century Philosophy</string>
+    <string name="phil3123">Such major trends in analytic philosophy as logical atomism, logical
+        positivism, and ordinary language analysis. Critical examination of the writings of such
+        exponents of these approaches as Russell, Moore, Ayer, Ryle, Austin, and Wittgenstein. Some
+        continental philosophers may also be examined."></string>
+    <string name="phil3123texts">Up to instructor</string>
+    <string name="phil3123credits">3 Credits</string>
+
+    <string name="phil3401title">Metaphysics</string>
+    <string name="phil3401">Classical and contemporary theories of being and reality. Analysis of such
+        concepts as particular, quality, relation, personal identity, free will and determinism,
+        universals, substance, mind, matter, space, and time. Possibility of metaphysical knowledge.
+        The relationship between metaphysics and other disciplines. </string>
+    <string name="phil3401texts">Up to instructor</string>
+    <string name="phil3401credits">4 Credits</string>
+
+    <string name="phil3420title">Philosophy of Mind</string>
+    <string name="phil3420">Philosophic analysis of such mental and psychological concepts as
+        intention, want, belief, emotion, will, desire, pleasure, imagination, and thought. Such
+        contemporary problems as the identity thesis, behaviorism, the analysis of mental acts, and
+        the intentionality thesis. </string>
+    <string name="phil3420texts">Up to instructor</string>
+    <string name="phil3420credits">3 Credits</string>
+
+    <string name="phil3601title">Philosophy of Science</string>
+    <string name="phil3601">Logical structure of mathematics and of the natural sciences.
+        Explanation in the physical sciences. Cognitive status of scientific laws and theories.</string>
+    <string name="phil3601texts">Up to instructor</string>
+    <string name="phil3601credits">3 Credits</string>
+
+    <string name="cisc1410title">Philosophy and Artificial Intelligence</string>
+    <string name="cisc1410">Contemporary issues in philosophy and psychology, such as the
+        mind-machine analogy, the artificial intelligence model of the human mind, intentionality,
+        representation, consciousness, concept formation, free will, behaviorism, mechanism.
+        Discussion and evaluation of contemporary work in the field.</string>
+    <string name="cisc1410texts">Up to instructor</string>
+    <string name="cisc1410credits">3 Credits</string>
+
+    <string name="psyc3580title">Philosophy and Artificial Intelligence</string>
+    <string name="psyc3580">Contemporary issues in philosophy and psychology, such as the
+        mind-machine analogy, the artificial intelligence model of the human mind, intentionality,
+        representation, consciousness, concept formation, free will, behaviorism, mechanism.
+        Discussion and evaluation of contemporary work in the field. </string>
+    <string name="psyc3580texts">Up to instructor</string>
+    <string name="psyc3580credits">3 Credits</string>
+
+    <string name="phil3423title">Philosophy and Artificial Intelligence</string>
+    <string name="phil3423">Contemporary issues in philosophy and psychology such as the mind-
+        machine analogy, the artificial intelligence model of the human mind, intentionality,
+        representation, consciousness, concept formation, free will, behaviorism, mechanism.
+        Discussion and evaluation of contemporary work in the field.</string>
+    <string name="phil3423texts">Up to instructor</string>
+    <string name="phil3423credits">3 Credits</string>
 
     <string name="cisc1050title">Introduction to Computer Applications</string>
     <string name="cisc1050">Introduction to the use of the computer in the home and office. Provides an overview of

@@ -43,6 +43,73 @@ public class Courses extends AppCompatActivity {
                 textbooks.setText(R.string.math3501texts);
                 credits.setText(R.string.math3501credits);
                 break;
+            case "PHIL 3422":
+                course.setText(R.string.phil3423);
+                title.setText(R.string.phil3423title);
+                textbooks.setText(R.string.phil3423texts);
+                credits.setText(R.string.phil3423credits);
+                break;
+            case "PSYC 1000":
+                course.setText(R.string.psyc1000);
+                title.setText(R.string.psyc1000title);
+                textbooks.setText(R.string.psyc1000texts);
+                credits.setText(R.string.psyc1000credits);
+                break;
+            case "PSYC 3530":
+                course.setText(R.string.psyc3530);
+                title.setText(R.string.psyc3530title);
+                textbooks.setText(R.string.psyc3530texts);
+                credits.setText(R.string.psyc3530credits);
+                break;
+            case "PHIL 3410":
+                course.setText(R.string.phil3410);
+                title.setText(R.string.phil3410title);
+                textbooks.setText(R.string.phil3410texts);
+                credits.setText(R.string.phil3410credits);
+                break;
+            case "PHIL 3123":
+                course.setText(R.string.phil3123);
+                title.setText(R.string.phil3123title);
+                textbooks.setText(R.string.phil3123texts);
+                credits.setText(R.string.phil3123credits);
+                break;
+            case "PHIL 3420":
+                course.setText(R.string.phil3420);
+                title.setText(R.string.phil3420title);
+                textbooks.setText(R.string.phil3420texts);
+                credits.setText(R.string.phil3420credits);
+                break;
+            case "PHIL 3601":
+                course.setText(R.string.phil3601);
+                title.setText(R.string.phil3601title);
+                textbooks.setText(R.string.phil3601texts);
+                credits.setText(R.string.phil3601credits);
+                break;
+            case "CISC 1410":
+                course.setText(R.string.cisc1410);
+                title.setText(R.string.cisc1410title);
+                textbooks.setText(R.string.cisc1410texts);
+                credits.setText(R.string.cisc1410credits);
+                break;
+            case "PHIL 3401":
+                course.setText(R.string.phil3401);
+                title.setText(R.string.phil3401title);
+                textbooks.setText(R.string.phil3401texts);
+                credits.setText(R.string.phil3401credits);
+                break;
+            case "PSYC 3580":
+                course.setText(R.string.psyc3580);
+                title.setText(R.string.psyc3580title);
+                textbooks.setText(R.string.psyc3580texts);
+                credits.setText(R.string.psyc3580credits);
+                break;
+            case "PHIL 3423":
+                course.setText(R.string.phil3423);
+                title.setText(R.string.phil3423title);
+                textbooks.setText(R.string.phil3423texts);
+                credits.setText(R.string.phil3423credits);
+                break;
+
             case "CISC 4610":
                 course.setText(R.string.cisc4610);
                 title.setText(R.string.cisc4610title);
