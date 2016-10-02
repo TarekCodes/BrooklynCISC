@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/is_m_other"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context="com.tareksaidee.android.brooklyncisc.fragments.IsMOther">
 
-</RelativeLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="1. With permission of the chairperson of the Department of Computer and Information Science, the student may substitute one of the following courses for any coursein the two-course choice: CISC 3160, 3220, 3310, 3320, 3630."
+        android:textColor="#000000"
+        android:textSize="15sp" />
+
+</LinearLayout>

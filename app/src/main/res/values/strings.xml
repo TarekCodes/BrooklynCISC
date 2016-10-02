@@ -38,6 +38,20 @@
     <string name="phil3422texts">Up to instructor</string>
     <string name="phil3422credits">3 Credits</string>
 
+    <string name="cisc1590title">Management Information Systems</string>
+    <string name="cisc1590">Management information systems as a business resource for achieving
+        competitive advantage. The major IT applications used in business and how they enable
+        competitiveness. The central role that relational databases and data warehouses play in the
+        business world. How IT has enabled and accelerated the growth of e-commerce. The role of
+        decision support systems and artificial intelligence in business. Overview and impact of IT
+        infrastructure design. System Development Lifecycle, project management, outsourcing,
+        offshoring and its impact on the US economy. Information security, intellectual property
+        rights, copyright and patent law on a national and international level. New trends in
+        technology and their potential impact on industry. Case studies and team project are
+        required.</string>
+    <string name="cisc1590texts">Up to instructor</string>
+    <string name="cisc1590credits">3 Credits</string>
+
     <string name="psyc1000title">Introductory Psychology</string>
     <string name="psyc1000">An introduction to the major facts, principles, methods, and theories of
         psychology. Topics include the history of psychology, sensory and perceptual processes,

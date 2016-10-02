@@ -308,6 +308,13 @@ public class Courses extends AppCompatActivity {
                 textbooks.setText(R.string.cisc2820wtexts);
                 credits.setText(R.string.cisc2820wcredits);
                 break;
+            case "BUSN 3420":
+            case "CISC 1590":
+                course.setText(R.string.cisc1590);
+                title.setText(R.string.cisc1590title);
+                textbooks.setText(R.string.cisc1590texts);
+                credits.setText(R.string.cisc1590credits);
+                break;
             case "CISC 3310":
                 course.setText(R.string.cisc3310);
                 title.setText(R.string.cisc3310title);
