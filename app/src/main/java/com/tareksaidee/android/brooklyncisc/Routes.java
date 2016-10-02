@@ -57,8 +57,8 @@ public class Routes extends AppCompatActivity {
                 break;
             case R.id.minor_cgs:
                 adapter.addFragment(new CgsMnReq(), "Requirements");
-                adapter.addFragment(new CsMnElec(), "Electives");
-                adapter.addFragment(new CsMnOther(), "Other");
+                adapter.addFragment(new CgsMnElec(), "Electives");
+                adapter.addFragment(new CgsMnOther(), "Other");
                 break;
             case R.id.minor_cs:
                 adapter.addFragment(new CsMnReq(), "Minor #1");
