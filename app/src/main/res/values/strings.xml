@@ -303,6 +303,94 @@
     (with CD) ISBN 0-13-603625-8.</string>
     <string name="cisc2531credits">3 Credits</string>
 
+    <string name="cisc1530title">Electronic Commerce</string>
+    <string name="cisc1530">How the Internet can be used to conduct business. Topics covered
+        include: Internet hardware and software, tools and technologies for creating a Web site,
+        characteristics of successful Web sites, new technologies, the future of the Internet, Web
+        communication strategies, security issues, legal and ethical issues, Internet information
+        services, data mining, global E-commerce. Case studies of successful E-commerce businesses
+        will be examined.</string>
+    <string name="cisc1530texts">•E- commerce: business, technology, society. by Kenneth C. Laudon
+        and Carol Guercio Traver. (3nd ed., Addison-Wesley, 2003)</string>
+    <string name="cisc1530credits">3 Credits</string>
+
+    <string name="cisc2532title">Information Systems Project Management</string>
+    <string name="cisc2532">
+        Information system project definition, management and implementation using automated project
+        management software. Analytical and automated methods for management of project time,
+        resources, cost and risk. Ensuring system quality and usability.</string>
+    <string name="cisc2532texts">Up to instructor</string>
+    <string name="cisc2532credits">3 Credits</string>
+
+    <string name="cisc1580wtitle">Seminar in Computer-Assisted Management Games</string>
+    <string name="cisc1580w">Simulation of a business environment providing practice in various
+        management functions such as objective setting, planning, supervising, organizing,
+        controlling, problem solving, and leadership. Emphasis on presentation and communication
+        skills and presenting results and their justification. Includes games involving competition
+        in the marketplace and use of knowledge-based management software for the business executive
+        . The desired course objectives are enhanced negotiating skills, improved personnel
+        observations, and optimized managerial behaviors. Writing-intensive course.</string>
+    <string name="cisc1580wtexts">Up to instructor</string>
+    <string name="cisc1580wcredits">3 Credits</string>
+    
+    <string name="econ2200title">Elementary Microeconomics</string>
+    <string name="econ2200">Basic laws and principles of economic science. Value, price, and
+        distribution. Preparation for more comprehensive studies involving application of the tools
+        of analysis to economic problems.</string>
+    <string name="econ2200texts">Up to instructor</string>
+    <string name="econ2200credits">3 Credits</string>
+    
+    <string name="busn2100title">Elementary Macroeconomics</string>
+    <string name="busn2100">Contemporary economic analysis of the operation of the United States
+        economy. Role of markets and the determination of the overall level of economic activity.
+        Dynamic process of growth, inflation, and international trade.</string>
+    <string name="busn2100texts">Up to instructor</string>
+    <string name="busn2100credits">3 Credits</string>
+
+    <string name="busn3200title">Principles of Management</string>
+    <string name="busn3200">Principles of management. Functions of the manager. Organization and
+        operation of American business. Management processes, concepts, and specific problems of
+        production, management, labor relations, marketing, financing, decision making and
+        accounting. Lectures, discussions, and case studies. </string>
+    <string name="busn3200texts">Up to instructor</string>
+    <string name="busn3200credits">3 Credits</string>
+
+    <string name="busn3310title">Corporation Financial Management</string>
+    <string name="busn3310">Basic problems faced by financial managers. Goals and functions of
+        financial managers, tools of financial analysis, forecasting funds requirements, management
+        of current assets, short-, intermediate-, and long-term financing.</string>
+    <string name="busn3310texts">Up to instructor</string>
+    <string name="busn3310credits">3 Credits</string>
+    
+    <string name="busn3410title">Fundamental Methods of Mathematical Economics I</string>
+    <string name="busn3410">Mathematical tools necessary for advanced study. Application of
+        differential calculus and matrix algebra to economic analysis. Consideration of static,
+        comparative static, and optimization models</string>
+    <string name="busn3410texts">Up to instructor</string>
+    <string name="busn3410credits">3 Credits</string>
+    
+    <string name="econ3400title">Introduction to Economic and Business Statistics</string>
+    <string name="econ3400">Descriptive statistics including measures of central tendency,
+        dispersion, and skewness. Probability and theoretical probability distributions including
+        the binomial function and the normal curve. Sampling, estimation, and test of hypothesis.
+        Simple correlation and regression analysis. Applications from social sciences. This course
+        is the same as Business 3400</string>
+    <string name="econ3400texts">Up to instructor</string>
+    <string name="econ3400credits">4 Credits</string>
+    
+    <string name="acct2001title">Introductory Accounting</string>
+    <string name="acct2001">Introduction to the concepts and principles of accounting. Techniques of
+        data accumulation. Nature and interpretation of financial statements. Corporate
+        accounting.</string>
+    <string name="acct2001texts">Up to instructor</string>
+    <string name="acct2001credits">4 Credits</string>
+    
+    <string name="psyc3400title">Statistical Methods in Psychological Research</string>
+    <string name="psyc3400">Basic descriptive and inferential statistics including the elements of
+        experimental designs in psychological research. STEM variant course</string>
+    <string name="psyc3400texts">Up to instructor</string>
+    <string name="psyc3400credits">4 Credits</string>
+
     <string name="cisc3800title">Advanced Personal Computer Techniques for Business
     Applications </string>
     <string name="cisc3800">In-depth analysis of software and hardware available for current business applications.

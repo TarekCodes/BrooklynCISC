@@ -43,6 +43,12 @@ public class Courses extends AppCompatActivity {
                 textbooks.setText(R.string.math3501texts);
                 credits.setText(R.string.math3501credits);
                 break;
+            case "PSYC 3400":
+                course.setText(R.string.psyc3400);
+                title.setText(R.string.psyc3400title);
+                textbooks.setText(R.string.psyc3400texts);
+                credits.setText(R.string.psyc3400credits);
+                break;
             case "PHIL 3422":
                 course.setText(R.string.phil3423);
                 title.setText(R.string.phil3423title);
@@ -128,11 +134,79 @@ public class Courses extends AppCompatActivity {
                 textbooks.setText(R.string.cisc1180texts);
                 credits.setText(R.string.cisc1180credits);
                 break;
+            case "BUSN 3430":
             case "CISC 2531":
                 course.setText(R.string.cisc2531);
                 title.setText(R.string.cisc2531title);
                 textbooks.setText(R.string.cisc2531texts);
                 credits.setText(R.string.cisc2531credits);
+                break;
+            case "BUSN 3432":
+            case "CISC 2532":
+                course.setText(R.string.cisc2532);
+                title.setText(R.string.cisc2532title);
+                textbooks.setText(R.string.cisc2532texts);
+                credits.setText(R.string.cisc2532credits);
+                break;
+            case "BUSN 3120":
+            case "CISC 1530":
+                course.setText(R.string.cisc1530);
+                title.setText(R.string.cisc1530title);
+                textbooks.setText(R.string.cisc1530texts);
+                credits.setText(R.string.cisc1530credits);
+                break;
+            case "BUSN 4202W":
+            case "CISC 1580W":
+                course.setText(R.string.cisc1580w);
+                title.setText(R.string.cisc1580wtitle);
+                textbooks.setText(R.string.cisc1580wtexts);
+                credits.setText(R.string.cisc1580wcredits);
+                break;
+            case "ECON 2100":
+            case "BUSN 2100":
+                course.setText(R.string.busn2100);
+                title.setText(R.string.busn2100title);
+                textbooks.setText(R.string.busn2100texts);
+                credits.setText(R.string.busn2100credits);
+                break;
+            case "BUSN 2200":
+            case "ECON 2200":
+                course.setText(R.string.econ2200);
+                title.setText(R.string.econ2200title);
+                textbooks.setText(R.string.econ2200texts);
+                credits.setText(R.string.econ2200credits);
+                break;
+            case "BUSN 3400":
+            case "ECON 3400":
+                course.setText(R.string.econ3400);
+                title.setText(R.string.econ3400title);
+                textbooks.setText(R.string.econ3400texts);
+                credits.setText(R.string.econ3400credits);
+                break;
+            case "ECON 3410":
+            case "BUSN 3410":
+                course.setText(R.string.busn3410);
+                title.setText(R.string.busn3410title);
+                textbooks.setText(R.string.busn3410texts);
+                credits.setText(R.string.busn3410credits);
+                break;
+            case "BUSN 3200":
+                course.setText(R.string.busn3200);
+                title.setText(R.string.busn3200title);
+                textbooks.setText(R.string.busn3200texts);
+                credits.setText(R.string.busn3200credits);
+                break;
+            case "BUSN 3310":
+                course.setText(R.string.busn3310);
+                title.setText(R.string.busn3310title);
+                textbooks.setText(R.string.busn3310texts);
+                credits.setText(R.string.busn3310credits);
+                break;
+            case "ACCT 2001":
+                course.setText(R.string.acct2001);
+                title.setText(R.string.acct2001title);
+                textbooks.setText(R.string.acct2001texts);
+                credits.setText(R.string.acct2001credits);
                 break;
             case "CISC 3820":
                 course.setText(R.string.cisc3820);
@@ -408,3 +482,4 @@ public class Courses extends AppCompatActivity {
 //TODO figure something out for electives and math classes etc.
 //TODO listview for long lists of classes
 //TODO name of major/minor on top of list of classes
+//TODO side menu on the left similar to mail that diplays all majors/minors
