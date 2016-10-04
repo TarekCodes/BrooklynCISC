@@ -30,7 +30,68 @@
         functions; applications. </string>
     <string name="math3501texts">Up to instructor</string>
     <string name="math3501credits">3 Credits</string>
+
+    <string name="math2001title">Transition to Advanced Mathematics</string>
+    <string name="math2001">An introduction to mathematical proofs and a transition to advanced
+        mathematics. Elements of mathematical language: basic set theory and logic. Direct proof,
+        proof by contrapositive and proof by contradiction. Counterexample and disproof. Relations.
+        Functions. Mathematical induction. Countable and uncountable sets. Proofs in elementary
+        number theory. Development of the real numbers. Properties of the real number system: order,
+        uncountability, completeness, least upper bound property, and the existence of the limits of
+        Cauchy sequences.</string>
+    <string name="math2001texts">Up to instructor</string>
+    <string name="math2001credits">3 Credits</string>
+
+    <string name="math2101title">Linear Algebra I</string>
+    <string name="math2101">Introduction to the concepts of linear algebra. Vector geometry of three
+        dimensions.</string>
+    <string name="math2101texts">Up to instructor</string>
+    <string name="math2101credits">3 Credits</string>
+
+    <string name="math2206title">Introduction to Differential Equations</string>
+    <string name="math2206">Standard methods for solving ordinary differential equations; geometric
+        interpretations; problems in physics leading to ordinary and partial differential equations;
+        elementary techniques for partial differential equations and separation of variables;
+        Fourier series</string>
+    <string name="math2206texts">Up to instructor</string>
+    <string name="math2206credits">4 Credits</string>
+
+    <string name="math4201title">Advanced Calculus I</string>
+    <string name="math4201">Advanced calculus of functions of one variable. Relevant properties of
+        the real number system. Properties of continuous functions and uniform continuity.
+        Differentiable functions, mean-value theorems. L'Hopital's rule, Taylor's theorem.
+        Sequences, series, and improper integrals. </string>
+    <string name="math4201texts">Up to instructor</string>
+    <string name="math4201credits">3 Credits</string>
+
+    <string name="math4701title">Numerical Analysis</string>
+    <string name="math4701">Introduction to numerical analysis using high-speed computers.
+        Fixed-point and floating-point arithmetic; analysis of errors; numerical solution of
+        algebraic and transcendental equations and systems of linear equations. Interpolation and
+        approximation. Numerical differentiation and integration. Solution of ordinary differential
+        equations.</string>
+    <string name="math4701texts">Up to instructor</string>
+    <string name="math4701credits">4 Credits</string>
+
+    <string name="math2201title">Multivariable Calculus</string>
+    <string name="math2201">Continuation of Mathematics 1206. Vectors and parametric equations,
+        partial differentiation, multiple integration, line integrals, and Green's theorem.</string>
+    <string name="math2201texts">Up to instructor</string>
+    <string name="math2201credits">4 Credits</string>
     
+    <string name="math3101title">Abstract Algebra I</string>
+    <string name="math3101">Elementary theory of groups, rings, and fields; integers, rationals,
+        real and complex numbers; elements of number theory, polynomials.</string>
+    <string name="math3101texts">Up to instructor</string>
+    <string name="math3101credits">3 Credits</string>
+    
+    <string name="math4101title">Linear Algebra II</string>
+    <string name="math4101">Determinants, matrices, and systems of linear equations;
+        linear dependence; vector spaces; eigenvalues, and eigenvectors; matrix equations;
+        linear transformations; convex sets. </string>
+    <string name="math4101texts">Up to instructor</string>
+    <string name="math4101credits">4 Credits</string>
+
     <string name="phil3422title">Philosophical Issues in Cognitive Science</string>
     <string name="phil3422">Introduction to select foundational issues in cognitive science.
         Consideration of such topics as concept formation, meaning, representation, language,
@@ -67,7 +128,7 @@
         strategies for improving memory, and other similar areas.</string>
     <string name="psyc3530texts">Up to instructor</string>
     <string name="psyc3530credits">3 Credits</string>
-    
+
     <string name="phil3410title">Epistemology: Theory of Knowledge</string>
     <string name="phil3410">Classical and contemporary theories of the nature of knowledge and
         belief. Discussion of skepticism, rationalism, empiricism, coherentism, foundationalism.
@@ -213,14 +274,14 @@
         program interfaces. Network examples.</string>
     <string name="cisc3340texts">Up to instructor</string>
     <string name="cisc3340credits">3 Credits</string>
-    
+
     <string name="cisc3240title">Cryptography and Cryptanalysis</string>
     <string name="cisc3240">An introduction to mathematical cryptography. Various cryptographic
         systems. Basic cryptanalytic attacks. Modern cryptographic systems; authentication;
         factorization attacks. This course is the same as Mathematics 3107 </string>
     <string name="cisc3240texts">Up to instructor</string>
     <string name="cisc3240credits">4 Credits</string>
-    
+
     <string name="cisc3230title">Theoretical Computer Science</string>
     <string name="cisc3230">Overview of theoretical computer science. Formal language theory,
         computability theory. Finite automata, context-free and regular grammars, push-down automata
@@ -252,7 +313,7 @@
         completed a programming course in another language.</string>
     <string name="cisc1180texts">Up to instructor</string>
     <string name="cisc1180credits">2 Credits</string>
-    
+
     <string name="cisc3325title">Information Security</string>
     <string name="cisc3325">Principles and practices of computer and network security. Fundamental
         concepts and principles of computer security, basic cryptography, authentication and access
@@ -272,7 +333,7 @@
         organization. Laboratory experiments on computer operations. Design of a digital computer system.</string>
     <string name="cisc3315texts">Up to instructor</string>
     <string name="cisc3315credits">4.5 Credits</string>
-    
+
     <string name="cisc3345title">Computer Networks</string>
     <string name="cisc3345">A course on computer networks and protocols. Network topologies and switching
     mechanisms. Protocol concepts and characteristics. Network protocol architectures. Data
@@ -332,14 +393,14 @@
         observations, and optimized managerial behaviors. Writing-intensive course.</string>
     <string name="cisc1580wtexts">Up to instructor</string>
     <string name="cisc1580wcredits">3 Credits</string>
-    
+
     <string name="econ2200title">Elementary Microeconomics</string>
     <string name="econ2200">Basic laws and principles of economic science. Value, price, and
         distribution. Preparation for more comprehensive studies involving application of the tools
         of analysis to economic problems.</string>
     <string name="econ2200texts">Up to instructor</string>
     <string name="econ2200credits">3 Credits</string>
-    
+
     <string name="busn2100title">Elementary Macroeconomics</string>
     <string name="busn2100">Contemporary economic analysis of the operation of the United States
         economy. Role of markets and the determination of the overall level of economic activity.
@@ -361,14 +422,14 @@
         of current assets, short-, intermediate-, and long-term financing.</string>
     <string name="busn3310texts">Up to instructor</string>
     <string name="busn3310credits">3 Credits</string>
-    
+
     <string name="busn3410title">Fundamental Methods of Mathematical Economics I</string>
     <string name="busn3410">Mathematical tools necessary for advanced study. Application of
         differential calculus and matrix algebra to economic analysis. Consideration of static,
         comparative static, and optimization models</string>
     <string name="busn3410texts">Up to instructor</string>
     <string name="busn3410credits">3 Credits</string>
-    
+
     <string name="econ3400title">Introduction to Economic and Business Statistics</string>
     <string name="econ3400">Descriptive statistics including measures of central tendency,
         dispersion, and skewness. Probability and theoretical probability distributions including
@@ -377,14 +438,14 @@
         is the same as Business 3400</string>
     <string name="econ3400texts">Up to instructor</string>
     <string name="econ3400credits">4 Credits</string>
-    
+
     <string name="acct2001title">Introductory Accounting</string>
     <string name="acct2001">Introduction to the concepts and principles of accounting. Techniques of
         data accumulation. Nature and interpretation of financial statements. Corporate
         accounting.</string>
     <string name="acct2001texts">Up to instructor</string>
     <string name="acct2001credits">4 Credits</string>
-    
+
     <string name="psyc3400title">Statistical Methods in Psychological Research</string>
     <string name="psyc3400">Basic descriptive and inferential statistics including the elements of
         experimental designs in psychological research. STEM variant course</string>
@@ -609,7 +670,7 @@
     <string name="cisc3220texts">•Baase, Sara and Van Gelder. Computer Algorithms: Introduction to Design and Analysis, 3rd
     ed., Addison-Wesley. </string>
     <string name="cisc3220credits">3 Credits</string>
-    
+
     <string name="cisc4610title">Multimedia Databases</string>
     <string name="cisc4610">Multimedia data types and formats. Multimedia computer database design
         issues. Indexing and automated retrieval of text documents, audio files, images and video.
