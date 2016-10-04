@@ -110,6 +110,175 @@
                     android:text="CISC 3820" />
             </LinearLayout>
         </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="8dp"
+            android:text="One of the following:"
+            android:textColor="#000000"
+            android:textSize="22sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/busn3120_button"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="16dp"
+                android:layout_weight="1"
+                android:onClick="goToCourse"
+                android:text="BUSN 3120" />
+
+            <Button
+                android:id="@+id/cisc1530_button"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:onClick="goToCourse"
+                android:text="CISC 1530" />
+
+            <Button
+                android:id="@+id/busn3432_button"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginRight="8dp"
+                android:layout_weight="1"
+                android:onClick="goToCourse"
+                android:text="BUSN 3432" />
+
+            <Button
+                android:id="@+id/cisc2532_button"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginRight="16dp"
+                android:layout_weight="1"
+                android:onClick="goToCourse"
+                android:text="CISC 2532" />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="24dp"
+            android:text="One of the following:"
+            android:textColor="#000000"
+            android:textSize="22sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/busn3400_button"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="16dp"
+                android:layout_weight="1"
+                android:onClick="goToCourse"
+                android:text="BUSN 3400" />
+
+            <Button
+                android:id="@+id/econ3400_button"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:onClick="goToCourse"
+                android:text="ECON 3400" />
+
+            <Button
+                android:id="@+id/math2501_button"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginRight="8dp"
+                android:layout_weight="1"
+                android:onClick="goToCourse"
+                android:text="MATH 2501" />
+
+            <Button
+                android:id="@+id/math3501_button"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginRight="8dp"
+                android:layout_weight="1"
+                android:onClick="goToCourse"
+                android:text="MATH 3501" />
+
+            <Button
+                android:id="@+id/psyc3400_button"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginRight="16dp"
+                android:layout_weight="1"
+                android:onClick="goToCourse"
+                android:text="PSYC 3400" />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="24dp"
+            android:text="One of the following:"
+            android:textColor="#000000"
+            android:textSize="22sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/busn3410_button"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="16dp"
+                android:layout_weight="1"
+                android:onClick="goToCourse"
+                android:text="BUSN 3410" />
+
+            <Button
+                android:id="@+id/econ3410_button"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:onClick="goToCourse"
+                android:text="ECON 3410" />
+
+            <Button
+                android:id="@+id/math1201_button"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginRight="8dp"
+                android:layout_weight="1"
+                android:onClick="goToCourse"
+                android:text="MATH 1201" />
+        </LinearLayout>
     </LinearLayout>
 
 </ScrollView>
