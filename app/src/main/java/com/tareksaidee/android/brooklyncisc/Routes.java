@@ -35,10 +35,15 @@ public class Routes extends AppCompatActivity {
 
     private void pickFragments() {
         switch (sourceID) {
-            case R.id.major_cm:
-                adapter.addFragment(new CmReq(), "Requirements");
-                adapter.addFragment(new CmElec(), "Electives");
-                adapter.addFragment(new CmOther(), "Other");
+            case R.id.major_cm_comp:
+                adapter.addFragment(new CmAppReq(), "Requirements");
+                adapter.addFragment(new CmAppElec(), "Electives");
+                adapter.addFragment(new CmAppOther(), "Other");
+                break;
+            case R.id.major_cm_theor:
+                adapter.addFragment(new CmThReq(), "Requirements");
+                adapter.addFragment(new CmThElec(), "Electives");
+                adapter.addFragment(new CmThOther(), "Other");
                 break;
             case R.id.major_cs:
                 adapter.addFragment(new CsMReq(), "Requirements");

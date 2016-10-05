@@ -59,7 +59,7 @@
     <string name="math4201title">Advanced Calculus I</string>
     <string name="math4201">Advanced calculus of functions of one variable. Relevant properties of
         the real number system. Properties of continuous functions and uniform continuity.
-        Differentiable functions, mean-value theorems. L'Hopital's rule, Taylor's theorem.
+        Differentiable functions, mean-value theorems. L\'Hopital\'s rule, Taylor\'s theorem.
         Sequences, series, and improper integrals. </string>
     <string name="math4201texts">Up to instructor</string>
     <string name="math4201credits">3 Credits</string>
@@ -75,16 +75,16 @@
 
     <string name="math2201title">Multivariable Calculus</string>
     <string name="math2201">Continuation of Mathematics 1206. Vectors and parametric equations,
-        partial differentiation, multiple integration, line integrals, and Green's theorem.</string>
+        partial differentiation, multiple integration, line integrals, and Green\'s theorem.</string>
     <string name="math2201texts">Up to instructor</string>
     <string name="math2201credits">4 Credits</string>
-    
+
     <string name="math3101title">Abstract Algebra I</string>
     <string name="math3101">Elementary theory of groups, rings, and fields; integers, rationals,
         real and complex numbers; elements of number theory, polynomials.</string>
     <string name="math3101texts">Up to instructor</string>
     <string name="math3101credits">3 Credits</string>
-    
+
     <string name="math4101title">Linear Algebra II</string>
     <string name="math4101">Determinants, matrices, and systems of linear equations;
         linear dependence; vector spaces; eigenvalues, and eigenvectors; matrix equations;

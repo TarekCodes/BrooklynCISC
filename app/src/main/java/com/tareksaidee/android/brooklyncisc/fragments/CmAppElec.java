@@ -8,19 +8,18 @@ import android.view.ViewGroup;
 
 import com.tareksaidee.android.brooklyncisc.R;
 
-public class CmReq extends Fragment {
+public class CmAppElec extends Fragment {
 
-    public CmReq() {
+    public CmAppElec() {
     }
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
     }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.cm_req, container, false);
+        return inflater.inflate(R.layout.cm_app_elec, container, false);
     }
 }

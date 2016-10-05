@@ -8,9 +8,9 @@ import android.view.ViewGroup;
 
 import com.tareksaidee.android.brooklyncisc.R;
 
-public class CmOther extends Fragment {
+public class CmThReq extends Fragment {
 
-    public CmOther() {
+    public CmThReq() {
     }
 
     @Override
@@ -21,6 +21,6 @@ public class CmOther extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.cm_other, container, false);
+        return inflater.inflate(R.layout.cm_th_req, container, false);
     }
 }

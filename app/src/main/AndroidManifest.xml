@@ -42,6 +42,7 @@
         <activity android:name=".Courses" />
         <activity android:name=".Routes" />
         <activity android:name=".Electives" />
+        <activity android:name=".CmIntroScreen"></activity>
     </application>
 
 </manifest>
