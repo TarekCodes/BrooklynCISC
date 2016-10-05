@@ -14,10 +14,10 @@ public class CmIntroScreen extends AppCompatActivity {
         setContentView(R.layout.activity_cm_intro_screen);
     }
 
-    void goToRoute(View view){
-        Button button = (Button) view;
-        Intent intent = new Intent(this,Routes.class);
-        intent.putExtra("ButtonID",button.getId());
-        startActivityForResult(intent,0);
+    public void goToRoute(View view){
+        Button sourceButton = (Button) view;
+        Intent intent = new Intent(this, Routes.class);
+        intent.putExtra("buttonID", sourceButton.getId());
+        startActivityForResult(intent, 0);
     }
 }

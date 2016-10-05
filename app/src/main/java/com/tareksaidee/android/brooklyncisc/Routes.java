@@ -8,7 +8,33 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
-import com.tareksaidee.android.brooklyncisc.fragments.*;
+import com.tareksaidee.android.brooklyncisc.fragments.CgsMnElec;
+import com.tareksaidee.android.brooklyncisc.fragments.CgsMnOther;
+import com.tareksaidee.android.brooklyncisc.fragments.CgsMnReq;
+import com.tareksaidee.android.brooklyncisc.fragments.CmAppElec;
+import com.tareksaidee.android.brooklyncisc.fragments.CmAppOther;
+import com.tareksaidee.android.brooklyncisc.fragments.CmAppReq;
+import com.tareksaidee.android.brooklyncisc.fragments.CmThElec;
+import com.tareksaidee.android.brooklyncisc.fragments.CmThOther;
+import com.tareksaidee.android.brooklyncisc.fragments.CmThReq;
+import com.tareksaidee.android.brooklyncisc.fragments.CsMElec;
+import com.tareksaidee.android.brooklyncisc.fragments.CsMOther;
+import com.tareksaidee.android.brooklyncisc.fragments.CsMReq;
+import com.tareksaidee.android.brooklyncisc.fragments.CsMnElec;
+import com.tareksaidee.android.brooklyncisc.fragments.CsMnOther;
+import com.tareksaidee.android.brooklyncisc.fragments.CsMnReq;
+import com.tareksaidee.android.brooklyncisc.fragments.IsMElec;
+import com.tareksaidee.android.brooklyncisc.fragments.IsMOther;
+import com.tareksaidee.android.brooklyncisc.fragments.IsMReq;
+import com.tareksaidee.android.brooklyncisc.fragments.MmcMElec;
+import com.tareksaidee.android.brooklyncisc.fragments.MmcMOther;
+import com.tareksaidee.android.brooklyncisc.fragments.MmcMReq;
+import com.tareksaidee.android.brooklyncisc.fragments.MmcMnElec;
+import com.tareksaidee.android.brooklyncisc.fragments.MmcMnOther;
+import com.tareksaidee.android.brooklyncisc.fragments.MmcMnReq;
+import com.tareksaidee.android.brooklyncisc.fragments.PdcMnElec;
+import com.tareksaidee.android.brooklyncisc.fragments.PdcMnOther;
+import com.tareksaidee.android.brooklyncisc.fragments.PdcMnReq;
 
 public class Routes extends AppCompatActivity {
     private TabLayout tabLayout;
@@ -99,7 +125,8 @@ public class Routes extends AppCompatActivity {
                 return R.layout.mmcminor;
             case R.id.minor_pdc:
                 return R.layout.pdcminor;
-            case R.id.major_cm:
+            case R.id.major_cm_comp:
+            case R.id.major_cm_theor:
                 return R.layout.cmmajor;
             case R.id.major_cs:
                 return R.layout.csmajor;
