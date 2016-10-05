@@ -1,6 +1,118 @@
 <resources>
     <string name="app_name">Brooklyn CISC</string>
 
+    <string name="artd2811title">Introduction to Digital Art</string>
+    <string name="artd2811">Introduction to digital art and design techniques including page layout
+        and illustration. Scanning, manipulation, and printing hardware and software. Exploration of
+        the role of digital techniques in the creative process</string>
+    <string name="artd2811texts">Up to instructor</string>
+    <string name="artd2811credits">3 Credits</string>
+
+    <string name="artd2812title">Multimedia and Two-Dimensional Animation</string>
+    <string name="artd2812">Introduction to the moving image and use of sound in digital projects.
+        Basics of 2-D animation. Exploration of a variety of tools including digital cameras, video
+        editing and compositing software, and animation software.</string>
+    <string name="artd2812texts">Up to instructor</string>
+    <string name="artd2812credits">3 Credits</string>
+
+    <string name="artd2820title">Digital Video</string>
+    <string name="artd2820">Exploration of techniques of digital video art and design including
+        video acquisition, editing, compositing, motion graphics, special effects, and output.
+        Focus on technical as well as cultural aspects of the digital moving image.</string>
+    <string name="artd2820texts">Up to instructor</string>
+    <string name="artd2820credits">3 Credits</string>
+
+    <string name="artd2821title">Three-Dimensional Graphics and Animation</string>
+    <string name="artd2821">Emphasis on 3-D modeling and animation techniques. Study of modeling
+        tools, surface properties and textures, illumination and camera techniques for three
+        dimensional graphics with focus on technical as well as aesthetic considerations.</string>
+    <string name="artd2821texts">Up to instructor</string>
+    <string name="artd2821credits">3 Credits</string>
+
+    <string name="musc3260title">Introduction to Music Technology</string>
+    <string name="musc3260">Introduction to an array of available software for the creation,
+        documentation, and instruction of music. Designed for any musician interested in
+        computer-based tools to enhance a musical life and career. Topics include digital audio,
+        MIDI, music notation, music on the Internet, presentation of one?s work, and pedagogical
+        tools.</string>
+    <string name="musc3260texts">Up to instructor</string>
+    <string name="musc3260credits">3 Credits</string>
+
+    <string name="artd3812title">Internet Art and Design</string>
+    <string name="artd3812">Study of interface development and animation for the Internet. Focus on
+        technical and aesthetic considerations of website development.</string>
+    <string name="artd3812texts">Up to instructor</string>
+    <string name="artd3812credits">3 Credits</string>
+
+    <string name="musc3261title">Introduction to Electro-Acoustic Music</string>
+    <string name="musc3261">Introduction to the tools of electro-acoustic music, including basic studio
+        techniques, computer music, MIDI, and live electronic performance. Practical experience in
+        composing in this medium and exposure to important works in this repertoire.</string>
+    <string name="musc3261texts">Up to instructor</string>
+    <string name="musc3261credits">3 Credits</string>
+
+    <string name="musc3262title">Electro-Acoustic Music</string>
+    <string name="musc3262">In-depth investigation of electronic music making, with special
+        attention to tape composition, digital sound synthesis, MIDI software applications, live
+        sound processing, and related performance techniques. Advanced practical experience and
+        opportunities to compose in this medium.</string>
+    <string name="musc3262texts">Up to instructor</string>
+    <string name="musc3262credits">3 Credits</string>
+
+    <string name="musc3322title">Techniques for Recording Music</string>
+    <string name="musc3322">Special problems and techniques of audio recording as they relate to the
+        professional musician. Audio engineering with analog and digital systems.</string>
+    <string name="musc3322texts">Up to instructor</string>
+    <string name="musc3322credits">3 Credits</string>
+
+    <string name="film2701title">Film Editing</string>
+    <string name="film2701">Montage and first principles in the art of film editing: time, rhythm,
+        visual and aural relationships. Expressive aspects of the editing process. Interconnection
+        of concept, script, photography, and directing as related to editing. Emphasis on formal
+        instruction in theories and non-linear editing technique using Final Cut Pro. </string>
+    <string name="film2701texts">Up to instructor</string>
+    <string name="film2701credits">3 Credits</string>
+
+    <string name="film1201title">Introduction to Production</string>
+    <string name="film1201">Introduction to fundamentals of film production through demonstrations,
+        lectures, and hands-on use of motion picture cameras, lenses, filters, lighting equipment,
+        film stocks, and sound recording equipment. Individual and group film projects, which are
+        evaluated and criticized. </string>
+    <string name="film1201texts">Up to instructor</string>
+    <string name="film1201credits">3 Credits</string>
+
+    <string name="tvra2420title">Sight/Sound/Motion: Basic Production Theories and Techniques</string>
+    <string name="tvra2420">Application of basic production theories and techniques; relationship
+        between the tools and language of sight, sound, and motion and the theories that have
+        evolved around them. Practice in the use of tools with a view to strengthening the basis
+        for aesthetic judgment on matters of aural/visual/kinetic communication. </string>
+    <string name="tvra2420texts">Up to instructor</string>
+    <string name="tvra2420credits">3 Credits</string>
+
+    <string name="tvra3861title">Multi-Camera Television Production</string>
+    <string name="tvra3861">Aspects of television studio operation that contribute to the aesthetics of
+        production. Laboratory practice with cameras, microphones, sound effects, properties,
+        lighting instruments and control, audio console, and switcher-fader.</string>
+    <string name="tvra3861texts">Up to instructor</string>
+    <string name="tvra3861credits">3 Credits</string>
+
+    <string name="tvra3871title">Single Camera Production</string>
+    <string name="tvra3871">Aspects of production of television segments and programs in nonstudio
+        locations. Selection and use of portable cameras, lighting, and sound equipment. Aesthetic
+        considerations necessary for effective post-production editing. Comparison of requirements
+        for recording scripted and spontaneous events. Director's and Producer's roles in creating
+        and distributing such programs. Collaborative production of finished material suitable for
+        telecasting and online distribution. </string>
+    <string name="tvra3871texts">Up to instructor</string>
+    <string name="tvra3871credits">3 Credits</string>
+
+    <string name="tvra3951title">Introduction to Radio Production</string>
+    <string name="tvra3951">Radio and audio aesthetics and production. Laboratory practice in conceiving,
+        scripting, developing, and producing a variety of radio programs using field and studio
+        equipment including emerging digital technology.</string>
+    <string name="tvra3951texts">Up to instructor</string>
+    <string name="tvra3951credits">3 Credits</string>
+
     <string name="math1201title">Calculus I</string>
     <string name="math1201">an introduction to calculus: limits and continuity; derivatives and
         integrals of algebraic, exponential, logarithmic, and trigonometric functions of one

@@ -19,11 +19,95 @@ public class Courses extends AppCompatActivity {
         TextView textbooks = (TextView) findViewById(R.id.cisc_textbooks);
         TextView credits = (TextView) findViewById(R.id.cisc_credits);
         switch (code) {
-            case "MATH 1201":
-                course.setText(R.string.math1201);
-                title.setText(R.string.math1201title);
-                textbooks.setText(R.string.math1201texts);
-                credits.setText(R.string.math1201credits);
+            case "ARTD 2811":
+                course.setText(R.string.artd2811);
+                title.setText(R.string.artd2811title);
+                textbooks.setText(R.string.artd2811texts);
+                credits.setText(R.string.artd2811credits);
+                break;
+            case "ARTD 2812":
+                course.setText(R.string.artd2812);
+                title.setText(R.string.artd2812title);
+                textbooks.setText(R.string.artd2812texts);
+                credits.setText(R.string.artd2812credits);
+                break;
+            case "ARTD 2820":
+                course.setText(R.string.artd2820);
+                title.setText(R.string.artd2820title);
+                textbooks.setText(R.string.artd2820texts);
+                credits.setText(R.string.artd2820credits);
+                break;
+            case "ARTD 2821":
+                course.setText(R.string.artd2821);
+                title.setText(R.string.artd2821title);
+                textbooks.setText(R.string.artd2821texts);
+                credits.setText(R.string.artd2821credits);
+                break;
+            case "ARTD 3812":
+                course.setText(R.string.artd3812);
+                title.setText(R.string.artd3812title);
+                textbooks.setText(R.string.artd3812texts);
+                credits.setText(R.string.artd3812credits);
+                break;
+            case "MUSC 3260":
+                course.setText(R.string.musc3260);
+                title.setText(R.string.musc3260title);
+                textbooks.setText(R.string.musc3260texts);
+                credits.setText(R.string.musc3260credits);
+                break;
+            case "MUSC 3261":
+                course.setText(R.string.musc3261);
+                title.setText(R.string.musc3261title);
+                textbooks.setText(R.string.musc3261texts);
+                credits.setText(R.string.musc3261credits);
+                break;
+            case "MUSC 3262":
+                course.setText(R.string.musc3262);
+                title.setText(R.string.musc3262title);
+                textbooks.setText(R.string.musc3262texts);
+                credits.setText(R.string.musc3262credits);
+                break;
+            case "MUSC 3322":
+                course.setText(R.string.musc3322);
+                title.setText(R.string.musc3322title);
+                textbooks.setText(R.string.musc3322texts);
+                credits.setText(R.string.musc3322credits);
+                break;
+            case "FILM 1201":
+                course.setText(R.string.film1201);
+                title.setText(R.string.film1201title);
+                textbooks.setText(R.string.film1201texts);
+                credits.setText(R.string.film1201credits);
+                break;
+            case "FILM 2701":
+                course.setText(R.string.film2701);
+                title.setText(R.string.film2701title);
+                textbooks.setText(R.string.film2701texts);
+                credits.setText(R.string.film2701credits);
+                break;
+            case "TVRA 2420":
+                course.setText(R.string.tvra2420);
+                title.setText(R.string.tvra2420title);
+                textbooks.setText(R.string.tvra2420texts);
+                credits.setText(R.string.tvra2420credits);
+                break;
+            case "TVRA 3861":
+                course.setText(R.string.tvra3861);
+                title.setText(R.string.tvra3861title);
+                textbooks.setText(R.string.tvra3861texts);
+                credits.setText(R.string.tvra3861credits);
+                break;
+            case "TVRA 3871":
+                course.setText(R.string.tvra3871);
+                title.setText(R.string.tvra3871title);
+                textbooks.setText(R.string.tvra3871texts);
+                credits.setText(R.string.tvra3871credits);
+                break;
+            case "TVRA 3951":
+                course.setText(R.string.tvra3951);
+                title.setText(R.string.tvra3951title);
+                textbooks.setText(R.string.tvra3951texts);
+                credits.setText(R.string.tvra3951credits);
                 break;
             case "MATH 1206":
                 course.setText(R.string.math1206);
