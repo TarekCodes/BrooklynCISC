@@ -616,3 +616,4 @@ public class Courses extends AppCompatActivity {
 //TODO listview for long lists of classes
 //TODO name of major/minor on top of list of classes
 //TODO side menu on the left similar to mail that diplays all majors/minors
+//TODO add a divider between different electives requirements
