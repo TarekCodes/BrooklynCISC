@@ -118,21 +118,31 @@ public class Routes extends AppCompatActivity {
     private int pickRoute() {
         switch (sourceID) {
             case R.id.minor_cs:
+                getSupportActionBar().setTitle(R.string.CSMajor);
                 return R.layout.csminor;
             case R.id.major_mmc:
+                getSupportActionBar().setTitle(R.string.MMCMajor);
                 return R.layout.mmcmajor;
             case R.id.minor_mmc:
+                getSupportActionBar().setTitle(R.string.MMCMinor);
                 return R.layout.mmcminor;
             case R.id.minor_pdc:
+                getSupportActionBar().setTitle(R.string.PDCMinor);
                 return R.layout.pdcminor;
             case R.id.major_cm_comp:
+                getSupportActionBar().setTitle(R.string.CMMajorApp);
+                return R.layout.cmmajor;
             case R.id.major_cm_theor:
+                getSupportActionBar().setTitle(R.string.CMMajorThe);
                 return R.layout.cmmajor;
             case R.id.major_cs:
+                getSupportActionBar().setTitle(R.string.CSMinor);
                 return R.layout.csmajor;
             case R.id.minor_cgs:
+                getSupportActionBar().setTitle(R.string.CGSMinor);
                 return R.layout.cgsminor;
             case R.id.major_is:
+                getSupportActionBar().setTitle(R.string.ISMajor);
                 return R.layout.ismajor;
             default:
                 return R.layout.csmajor;

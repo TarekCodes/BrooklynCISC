@@ -16,8 +16,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
-            android:theme="@style/mainActivity">
+            android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -42,7 +41,8 @@
         <activity android:name=".Courses" />
         <activity android:name=".Routes" />
         <activity android:name=".Electives" />
-        <activity android:name=".CmIntroScreen"></activity>
+        <activity android:name=".CmIntroScreen"
+            android:theme="@style/noActionBar"/>
     </application>
 
 </manifest>

@@ -609,11 +609,6 @@ public class Courses extends AppCompatActivity {
 //TODO link to a textbook price comparision website for each textbook
 //TODO sort the cases based on course number here and in res too
 //TODO add a prereq section
-//TODO split course' info into different res files
-//TODO combine all courses into one class with appropriate functions for ease of use
-//TODO keep adding more majors/minors/classes
-//TODO figure something out for electives and math classes etc.
-//TODO listview for long lists of classes
 //TODO name of major/minor on top of list of classes
 //TODO side menu on the left similar to mail that diplays all majors/minors
 //TODO add a divider between different electives requirements

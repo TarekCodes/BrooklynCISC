@@ -806,5 +806,15 @@
     <string name="title_activity_courses_info">CoursesInfo</string>
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
+    <string name="CSMajor">Computer Science Major</string>
+    <string name="CSMinor">Computer Science Minor</string>
+    <string name="ISMajor">Information Systems Major</string>
+    <string name="MMCMajor">Multimedia Computing Major</string>
+    <string name="MMCMinor">Multimedia Computing Minor</string>
+    <string name="CMMajorApp">CM Major (Computational)</string>
+    <string name="CMMajorThe">CM Major (Theoretical)</string>
+    <string name="PDCMinor">Parallel and Distributed Computing Major</string>
+    <string name="CGSMinor">Cognitive Science Minor</string>
+
 </resources>
 
